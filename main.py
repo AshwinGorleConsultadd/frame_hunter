@@ -35,7 +35,7 @@ import whisper
 # Input paths
 input_folder = "input"
 audio_output_folder = "audio_folder"
-video_file = "part000.mp4"gti
+video_file = "part000.mp4"
 video_path = os.path.join(input_folder, video_file)
 audio_path = os.path.join(audio_output_folder, "sample_audio.mp3")
 
