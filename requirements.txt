@@ -1,0 +1,23 @@
+# Core dependencies
+openai>=1.0.0
+langchain>=0.1.0
+pydantic>=2.0.0
+pandas>=2.0.0
+
+# Audio/Video processing
+openai-whisper>=20231117
+ffmpeg-python>=0.2.0
+opencv-python>=4.8.0
+
+# AWS S3 support
+boto3>=1.28.0
+botocore>=1.31.0
+
+# Additional utilities
+python-dotenv>=1.0.0
+pathlib2>=2.3.7
+
+# Development dependencies (optional)
+jupyter>=1.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0

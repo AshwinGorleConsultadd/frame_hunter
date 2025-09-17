@@ -1,0 +1,6539 @@
+{
+  "text": " Okay, this is Ratwant Creek on September 5th at apartment 111 It's a global item So we got a set of nine. Tread number four, priority one, top front crack. Tread number six, priority one, top front crack. track. Tread number nine priority two top front crack. Tread number 10 priority. Two top front rear crack. At apartment 123. upon the This is apartment 122. Try number 11 priority one top front crack. Track, tread number 10, priority one, top rear crack, screenshot. shot. tread number 18 priority one bottom rear crack tread number 17 priority one bottom rear crack tread number 16 priority one bottom rear crack tread number 15 priority one bottom rear crack screenshot tried number 14 priority one bottom rear crack tread number thirteen priority one bottom rear crack screenshot chat. Tread number 12 priority one bottom rear crack. Tread number 11 priority one bottom rear crack. Tread number 10 priority one bottom rear crack. at apartment 112. 12. This is 300 cubic. Stringers priority. priority. One for a finish screenshot. What are you going to do now? Department 118. Tread number 18. Priority 1. Bottom rear crack. Tread number 17. Priority 1. Bottom rear crack. Tread number 16. Priority 2. Bottom rear crack. Tread number 15. Priority 2. Bottom rear crack. Tread number nine priority one bottom rear crack. Tread number eight priority one bottom rear crack. Tread number one priority two rear cracks. Tread number eight priority one top rear crack Track number 9 priority 2 top rear crack. Track number 18 priority 1 top rear crack. Now department 126, tread 18, priority 2, bottom rear crack, tread 17, priority 2, bottom rear crack. screen shot. Tread number two priority one bottom rear crack. Tread number one priority one bottom rear crack. Dread number two priority two top center crack. Department 137, Building 1. Tread 16, priority one, top front and rear cracks, screenshot. Tread number eight, priority two, top front and rear cracks. Tread 5 priority 2 top front rear cracks, Tread 4 priority 2 top front rear cracks. Tread 16 priority 1 bottom rear crack. Try number eight, priority two, bottom rear crack. Try number seven, priority three, bottom rear crack. I got apartment 117. That thing was gonna go any second. Tread number 7, priority one, bottom front and rear cracks. Try number one priority two top front rear cracks. screen shot. Tip points are.. supposed to be a good match for tying forehand.. 1, team off I got tread number nine priority one top front crack. Building 2, apartment 218 18. Out of part two 26. Try number 18 priority three bottom center cracks I have really got too many setback. Trud allowed up the rest of my Turns rods being Trud. 14. Now the priority 2 top artist Innovation Act is I now decided to wait for the Trud 18 priority one, bottom rear crack. Tread 17 priority two, bottom rear crack. Tread 16 priority, two, bottom rear crack. Tread, 18 17, 15 priority, two, bottom rear crack. tread 13 priority 1 bottom rear crack, tread 12 priority 3 bottom rear crack, Try to 11, priority two, bottom rear crack. Try 10, priority two, bottom rear crack. Out of partment two, 17. Try 11 priority one top rear crack. Try 10 priority one top rear crack. The screenshot. Tread number 11 priority one, bottom rear crack screenshot. Tread 10 priority one, bottom rear crack. Tread 9 priority two, bottom rear crack. Track, tread 7, priority 2, bottom rear crack, stringer priority 1 for refurbish, screenshot. Huh. It's 17, priority one, bottom rear crack, screenshot. Tread 15, priority one, bottom rear crack. Tread 14, priority one, bottom rear crack. Tread 13, priority one, bottom rear crack. Tread 12, priority one, bottom rear crack.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.12,
+      "text": " Okay, this is Ratwant Creek",
+      "tokens": [
+        50363,
+        16805,
+        11,
+        428,
+        318,
+        11738,
+        42949,
+        13509,
+        50457
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.011768472605738,
+      "compression_ratio": 0.9876543209876543,
+      "no_speech_prob": 0.04979746416211128,
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 0.0,
+          "end": 0.08,
+          "probability": 0.006499452982097864
+        },
+        {
+          "word": " this",
+          "start": 0.16,
+          "end": 0.3,
+          "probability": 0.9400650262832642
+        },
+        {
+          "word": " is",
+          "start": 0.3,
+          "end": 0.44,
+          "probability": 0.995797872543335
+        },
+        {
+          "word": " Ratwant",
+          "start": 0.44,
+          "end": 0.86,
+          "probability": 0.27470252419880126
+        },
+        {
+          "word": " Creek",
+          "start": 0.86,
+          "end": 1.12,
+          "probability": 0.9787452220916748
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.7600000000000002,
+      "end": 5.24,
+      "text": " on September 5th",
+      "tokens": [
+        50501,
+        319,
+        2693,
+        642,
+        400,
+        50625
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.011768472605738,
+      "compression_ratio": 0.9876543209876543,
+      "no_speech_prob": 0.04979746416211128,
+      "words": [
+        {
+          "word": " on",
+          "start": 2.6799999999999997,
+          "end": 3.36,
+          "probability": 0.7287256121635437
+        },
+        {
+          "word": " September",
+          "start": 3.36,
+          "end": 4.04,
+          "probability": 0.945450484752655
+        },
+        {
+          "word": " 5th",
+          "start": 4.04,
+          "end": 5.24,
+          "probability": 0.9476909637451172
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.14,
+      "end": 11.84,
+      "text": " at apartment 111",
+      "tokens": [
+        50833,
+        379,
+        7962,
+        13374,
+        50987
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.011768472605738,
+      "compression_ratio": 0.9876543209876543,
+      "no_speech_prob": 0.04979746416211128,
+      "words": [
+        {
+          "word": " at",
+          "start": 9.14,
+          "end": 9.14,
+          "probability": 0.2143867462873459
+        },
+        {
+          "word": " apartment",
+          "start": 9.14,
+          "end": 10.76,
+          "probability": 0.9114310145378113
+        },
+        {
+          "word": " 111",
+          "start": 10.76,
+          "end": 11.84,
+          "probability": 0.8534855246543884
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 15.280000000000001,
+      "end": 19.6,
+      "text": " It's a global item",
+      "tokens": [
+        51491,
+        632,
+        338,
+        257,
+        3298,
+        2378,
+        51619
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.011768472605738,
+      "compression_ratio": 0.9876543209876543,
+      "no_speech_prob": 0.04979746416211128,
+      "words": [
+        {
+          "word": " It's",
+          "start": 15.280000000000001,
+          "end": 16.64,
+          "probability": 0.22316621197387576
+        },
+        {
+          "word": " a",
+          "start": 16.64,
+          "end": 16.76,
+          "probability": 0.053977176547050476
+        },
+        {
+          "word": " global",
+          "start": 16.76,
+          "end": 18.56,
+          "probability": 5.8611767599359155e-05
+        },
+        {
+          "word": " item",
+          "start": 18.56,
+          "end": 19.6,
+          "probability": 0.0001901176874525845
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 1960,
+      "start": 34.46,
+      "end": 49.58,
+      "text": " So we got a set of nine.",
+      "tokens": [
+        50363,
+        1406,
+        356,
+        1392,
+        257,
+        900,
+        286,
+        5193,
+        13,
+        50876
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8799467086791992,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.16828115284442902,
+      "words": [
+        {
+          "word": " So",
+          "start": 34.46,
+          "end": 35.86,
+          "probability": 0.18707546591758728
+        },
+        {
+          "word": " we",
+          "start": 35.86,
+          "end": 35.86,
+          "probability": 0.44258302450180054
+        },
+        {
+          "word": " got",
+          "start": 35.86,
+          "end": 35.86,
+          "probability": 0.5192434191703796
+        },
+        {
+          "word": " a",
+          "start": 35.86,
+          "end": 35.86,
+          "probability": 0.2585648000240326
+        },
+        {
+          "word": " set",
+          "start": 35.86,
+          "end": 35.86,
+          "probability": 0.44800978899002075
+        },
+        {
+          "word": " of",
+          "start": 35.86,
+          "end": 49.58,
+          "probability": 0.8590238094329834
+        },
+        {
+          "word": " nine.",
+          "start": 49.58,
+          "end": 49.58,
+          "probability": 0.6756743788719177
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 4958,
+      "start": 52.7,
+      "end": 56.82,
+      "text": " Tread number four, priority one, top front crack.",
+      "tokens": [
+        50363,
+        309,
+        961,
+        1271,
+        1440,
+        11,
+        8475,
+        530,
+        11,
+        1353,
+        2166,
+        8469,
+        13,
+        50913
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31909732818603515,
+      "compression_ratio": 1.4848484848484849,
+      "no_speech_prob": 0.10262951999902725,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 52.7,
+          "end": 53.56,
+          "probability": 0.5621439814567566
+        },
+        {
+          "word": " number",
+          "start": 53.56,
+          "end": 53.76,
+          "probability": 0.9472129940986633
+        },
+        {
+          "word": " four,",
+          "start": 53.76,
+          "end": 54.22,
+          "probability": 0.8232588768005371
+        },
+        {
+          "word": " priority",
+          "start": 54.3,
+          "end": 54.7,
+          "probability": 0.9724990725517273
+        },
+        {
+          "word": " one,",
+          "start": 54.7,
+          "end": 55.2,
+          "probability": 0.9822935461997986
+        },
+        {
+          "word": " top",
+          "start": 56.22,
+          "end": 56.24,
+          "probability": 0.9661327600479126
+        },
+        {
+          "word": " front",
+          "start": 56.24,
+          "end": 56.54,
+          "probability": 0.9403467774391174
+        },
+        {
+          "word": " crack.",
+          "start": 56.54,
+          "end": 56.82,
+          "probability": 0.9750514030456543
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 4958,
+      "start": 59.660000000000004,
+      "end": 65.64,
+      "text": " Tread number six, priority one, top front crack.",
+      "tokens": [
+        50913,
+        309,
+        961,
+        1271,
+        2237,
+        11,
+        8475,
+        530,
+        11,
+        1353,
+        2166,
+        8469,
+        13,
+        51507
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.31909732818603515,
+      "compression_ratio": 1.4848484848484849,
+      "no_speech_prob": 0.10262951999902725,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 59.660000000000004,
+          "end": 60.52,
+          "probability": 0.9834093153476715
+        },
+        {
+          "word": " number",
+          "start": 60.52,
+          "end": 60.78,
+          "probability": 0.9980098605155945
+        },
+        {
+          "word": " six,",
+          "start": 60.78,
+          "end": 61.32,
+          "probability": 0.9970917701721191
+        },
+        {
+          "word": " priority",
+          "start": 61.62,
+          "end": 62.14,
+          "probability": 0.9993181228637695
+        },
+        {
+          "word": " one,",
+          "start": 62.14,
+          "end": 64.0,
+          "probability": 0.9333031177520752
+        },
+        {
+          "word": " top",
+          "start": 64.5,
+          "end": 64.9,
+          "probability": 0.9972195625305176
+        },
+        {
+          "word": " front",
+          "start": 64.9,
+          "end": 65.28,
+          "probability": 0.9920166730880737
+        },
+        {
+          "word": " crack.",
+          "start": 65.28,
+          "end": 65.64,
+          "probability": 0.9978333115577698
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6564,
+      "start": 65.64,
+      "end": 65.9,
+      "text": " track.",
+      "tokens": [
+        50363,
+        2610,
+        13,
+        50701
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6753178437550863,
+      "compression_ratio": 0.42857142857142855,
+      "no_speech_prob": 0.10725022107362747,
+      "words": [
+        {
+          "word": " track.",
+          "start": 65.64,
+          "end": 65.9,
+          "probability": 0.17663690447807312
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6590,
+      "start": 71.08000000000001,
+      "end": 77.74,
+      "text": " Tread number nine priority two top front crack.",
+      "tokens": [
+        50363,
+        309,
+        961,
+        1271,
+        5193,
+        8475,
+        734,
+        1353,
+        2166,
+        8469,
+        13,
+        50959
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5713673004737267,
+      "compression_ratio": 0.8545454545454545,
+      "no_speech_prob": 0.06446672976016998,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 71.08000000000001,
+          "end": 72.4,
+          "probability": 0.5873817354440689
+        },
+        {
+          "word": " number",
+          "start": 72.4,
+          "end": 72.66,
+          "probability": 0.9387321472167969
+        },
+        {
+          "word": " nine",
+          "start": 72.66,
+          "end": 73.2,
+          "probability": 0.705739438533783
+        },
+        {
+          "word": " priority",
+          "start": 73.2,
+          "end": 73.86,
+          "probability": 0.6984263062477112
+        },
+        {
+          "word": " two",
+          "start": 73.86,
+          "end": 75.96,
+          "probability": 0.5269781351089478
+        },
+        {
+          "word": " top",
+          "start": 75.96,
+          "end": 77.08,
+          "probability": 0.8629099130630493
+        },
+        {
+          "word": " front",
+          "start": 77.08,
+          "end": 77.38,
+          "probability": 0.9805394411087036
+        },
+        {
+          "word": " crack.",
+          "start": 77.38,
+          "end": 77.74,
+          "probability": 0.9518237113952637
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 9590,
+      "start": 96.0,
+      "end": 98.44,
+      "text": " Tread number 10 priority.",
+      "tokens": [
+        50363,
+        309,
+        961,
+        1271,
+        838,
+        8475,
+        13,
+        50538
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8326775924019192,
+      "compression_ratio": 0.9452054794520548,
+      "no_speech_prob": 0.07758569717407227,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 96.0,
+          "end": 97.4,
+          "probability": 0.5207048580050468
+        },
+        {
+          "word": " number",
+          "start": 97.4,
+          "end": 97.56,
+          "probability": 0.947319746017456
+        },
+        {
+          "word": " 10",
+          "start": 97.56,
+          "end": 97.96,
+          "probability": 0.8512516021728516
+        },
+        {
+          "word": " priority.",
+          "start": 97.96,
+          "end": 98.44,
+          "probability": 0.4992375075817108
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 9590,
+      "start": 100.1,
+      "end": 103.88,
+      "text": " Two top front rear crack.",
+      "tokens": [
+        50538,
+        4930,
+        1353,
+        2166,
+        8286,
+        8469,
+        13,
+        50763
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8326775924019192,
+      "compression_ratio": 0.9452054794520548,
+      "no_speech_prob": 0.07758569717407227,
+      "words": [
+        {
+          "word": " Two",
+          "start": 100.1,
+          "end": 101.5,
+          "probability": 0.9020965695381165
+        },
+        {
+          "word": " top",
+          "start": 101.5,
+          "end": 102.78,
+          "probability": 0.9245691895484924
+        },
+        {
+          "word": " front",
+          "start": 102.78,
+          "end": 103.12,
+          "probability": 0.939596951007843
+        },
+        {
+          "word": " rear",
+          "start": 103.12,
+          "end": 103.54,
+          "probability": 0.9886307716369629
+        },
+        {
+          "word": " crack.",
+          "start": 103.54,
+          "end": 103.88,
+          "probability": 0.8676729202270508
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 9590,
+      "start": 110.9,
+      "end": 112.1,
+      "text": " At apartment 123.",
+      "tokens": [
+        51113,
+        1629,
+        7962,
+        17031,
+        13,
+        51213
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8326775924019192,
+      "compression_ratio": 0.9452054794520548,
+      "no_speech_prob": 0.07758569717407227,
+      "words": [
+        {
+          "word": " At",
+          "start": 110.32,
+          "end": 111.02,
+          "probability": 0.3147018253803253
+        },
+        {
+          "word": " apartment",
+          "start": 111.02,
+          "end": 111.24,
+          "probability": 0.5374500751495361
+        },
+        {
+          "word": " 123.",
+          "start": 111.24,
+          "end": 112.1,
+          "probability": 0.9519702792167664
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 18590,
+      "start": 211.92,
+      "end": 214.72,
+      "text": " upon the",
+      "tokens": [
+        50363,
+        2402,
+        262,
+        50765
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.4839391708374023,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.4288598597049713,
+      "words": [
+        {
+          "word": " upon",
+          "start": 211.92,
+          "end": 213.32,
+          "probability": 1.7475905167430028e-07
+        },
+        {
+          "word": " the",
+          "start": 213.32,
+          "end": 214.72,
+          "probability": 0.1736440807580948
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 27472,
+      "start": 280.32000000000005,
+      "end": 285.88,
+      "text": " This is apartment 122.",
+      "tokens": [
+        50363,
+        770,
+        318,
+        7962,
+        19409,
+        13,
+        51423
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44777244991726345,
+      "compression_ratio": 0.7857142857142857,
+      "no_speech_prob": 0.07149210572242737,
+      "words": [
+        {
+          "word": " This",
+          "start": 280.32000000000005,
+          "end": 281.72,
+          "probability": 0.6234223246574402
+        },
+        {
+          "word": " is",
+          "start": 281.72,
+          "end": 281.88,
+          "probability": 0.9893871545791626
+        },
+        {
+          "word": " apartment",
+          "start": 281.88,
+          "end": 283.68,
+          "probability": 0.8631160855293274
+        },
+        {
+          "word": " 122.",
+          "start": 283.68,
+          "end": 285.88,
+          "probability": 0.9423168301582336
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 28588,
+      "start": 294.7,
+      "end": 299.98,
+      "text": " Try number 11 priority one top front crack.",
+      "tokens": [
+        50363,
+        9993,
+        1271,
+        1367,
+        8475,
+        530,
+        1353,
+        2166,
+        8469,
+        13,
+        51243
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7279256673959585,
+      "compression_ratio": 0.8431372549019608,
+      "no_speech_prob": 0.08731858432292938,
+      "words": [
+        {
+          "word": " Try",
+          "start": 294.7,
+          "end": 295.86,
+          "probability": 0.10073675960302353
+        },
+        {
+          "word": " number",
+          "start": 295.86,
+          "end": 296.04,
+          "probability": 0.926030158996582
+        },
+        {
+          "word": " 11",
+          "start": 296.04,
+          "end": 296.62,
+          "probability": 0.8897361755371094
+        },
+        {
+          "word": " priority",
+          "start": 296.62,
+          "end": 297.32,
+          "probability": 0.8430213928222656
+        },
+        {
+          "word": " one",
+          "start": 297.32,
+          "end": 297.9,
+          "probability": 0.7582116723060608
+        },
+        {
+          "word": " top",
+          "start": 297.9,
+          "end": 298.94,
+          "probability": 0.7478358149528503
+        },
+        {
+          "word": " front",
+          "start": 298.94,
+          "end": 299.36,
+          "probability": 0.9627518653869629
+        },
+        {
+          "word": " crack.",
+          "start": 299.36,
+          "end": 299.98,
+          "probability": 0.9909384250640869
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 29998,
+      "start": 299.98,
+      "end": 312.74,
+      "text": " Track, tread number 10, priority one, top rear crack, screenshot.",
+      "tokens": [
+        50363,
+        17762,
+        11,
+        23153,
+        1271,
+        838,
+        11,
+        8475,
+        530,
+        11,
+        1353,
+        8286,
+        8469,
+        11,
+        22032,
+        13,
+        51755
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.44691402033755656,
+      "compression_ratio": 0.9701492537313433,
+      "no_speech_prob": 0.2973332107067108,
+      "words": [
+        {
+          "word": " Track,",
+          "start": 299.98,
+          "end": 300.18,
+          "probability": 0.10756878554821014
+        },
+        {
+          "word": " tread",
+          "start": 300.42,
+          "end": 303.34,
+          "probability": 0.4864412248134613
+        },
+        {
+          "word": " number",
+          "start": 303.34,
+          "end": 303.7,
+          "probability": 0.9522855281829834
+        },
+        {
+          "word": " 10,",
+          "start": 303.7,
+          "end": 304.52,
+          "probability": 0.8151796460151672
+        },
+        {
+          "word": " priority",
+          "start": 305.42,
+          "end": 305.94,
+          "probability": 0.9797953367233276
+        },
+        {
+          "word": " one,",
+          "start": 305.94,
+          "end": 306.58,
+          "probability": 0.8490287065505981
+        },
+        {
+          "word": " top",
+          "start": 307.36,
+          "end": 308.16,
+          "probability": 0.956532895565033
+        },
+        {
+          "word": " rear",
+          "start": 308.16,
+          "end": 308.46,
+          "probability": 0.9732229709625244
+        },
+        {
+          "word": " crack,",
+          "start": 308.46,
+          "end": 309.16,
+          "probability": 0.8234427571296692
+        },
+        {
+          "word": " screenshot.",
+          "start": 310.08,
+          "end": 312.74,
+          "probability": 0.8187776803970337
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 31274,
+      "start": 325.9,
+      "end": 326.94,
+      "text": " shot.",
+      "tokens": [
+        50363,
+        2823,
+        13,
+        50463
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7776404108319964,
+      "compression_ratio": 1.546875,
+      "no_speech_prob": 0.24683119356632233,
+      "words": [
+        {
+          "word": " shot.",
+          "start": 325.9,
+          "end": 326.94,
+          "probability": 0.013504776172339916
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 31274,
+      "start": 326.94,
+      "end": 329.7,
+      "text": " tread number 18",
+      "tokens": [
+        51093,
+        23153,
+        1271,
+        1248,
+        51218
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7776404108319964,
+      "compression_ratio": 1.546875,
+      "no_speech_prob": 0.24683119356632233,
+      "words": [
+        {
+          "word": " tread",
+          "start": 326.94,
+          "end": 327.7,
+          "probability": 0.1642082780599594
+        },
+        {
+          "word": " number",
+          "start": 327.7,
+          "end": 328.22,
+          "probability": 0.9292261004447937
+        },
+        {
+          "word": " 18",
+          "start": 328.22,
+          "end": 329.7,
+          "probability": 0.8912345767021179
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 31274,
+      "start": 330.94,
+      "end": 333.52,
+      "text": " priority one bottom rear crack",
+      "tokens": [
+        51273,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        51403
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7776404108319964,
+      "compression_ratio": 1.546875,
+      "no_speech_prob": 0.24683119356632233,
+      "words": [
+        {
+          "word": " priority",
+          "start": 330.56,
+          "end": 331.08,
+          "probability": 0.876561164855957
+        },
+        {
+          "word": " one",
+          "start": 331.08,
+          "end": 331.72,
+          "probability": 0.7766051888465881
+        },
+        {
+          "word": " bottom",
+          "start": 331.72,
+          "end": 332.84,
+          "probability": 0.696667492389679
+        },
+        {
+          "word": " rear",
+          "start": 332.84,
+          "end": 333.12,
+          "probability": 0.993678867816925
+        },
+        {
+          "word": " crack",
+          "start": 333.12,
+          "end": 333.52,
+          "probability": 0.9621878862380981
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 31274,
+      "start": 334.40000000000003,
+      "end": 337.36,
+      "text": " tread number 17 priority one bottom rear crack",
+      "tokens": [
+        51446,
+        23153,
+        1271,
+        1596,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        51595
+      ],
+      "temperature": 0.2,
+      "avg_logprob": -0.7776404108319964,
+      "compression_ratio": 1.546875,
+      "no_speech_prob": 0.24683119356632233,
+      "words": [
+        {
+          "word": " tread",
+          "start": 334.3,
+          "end": 334.82,
+          "probability": 0.8190167546272278
+        },
+        {
+          "word": " number",
+          "start": 334.82,
+          "end": 335.04,
+          "probability": 0.9797255396842957
+        },
+        {
+          "word": " 17",
+          "start": 335.04,
+          "end": 335.52,
+          "probability": 0.9261887073516846
+        },
+        {
+          "word": " priority",
+          "start": 335.52,
+          "end": 336.1,
+          "probability": 0.9901345372200012
+        },
+        {
+          "word": " one",
+          "start": 336.1,
+          "end": 336.54,
+          "probability": 0.987472653388977
+        },
+        {
+          "word": " bottom",
+          "start": 336.54,
+          "end": 336.76,
+          "probability": 0.9935131669044495
+        },
+        {
+          "word": " rear",
+          "start": 336.76,
+          "end": 337.0,
+          "probability": 0.9971497654914856
+        },
+        {
+          "word": " crack",
+          "start": 337.0,
+          "end": 337.36,
+          "probability": 0.9951829314231873
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 33736,
+      "start": 337.36,
+      "end": 342.6,
+      "text": " tread number 16 priority one bottom rear crack tread number 15 priority one",
+      "tokens": [
+        50363,
+        23153,
+        1271,
+        1467,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        23153,
+        1271,
+        1315,
+        8475,
+        530,
+        50626
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6506453427401456,
+      "compression_ratio": 2.5595238095238093,
+      "no_speech_prob": 0.24630731344223022,
+      "words": [
+        {
+          "word": " tread",
+          "start": 337.36,
+          "end": 338.4,
+          "probability": 0.08262002468109131
+        },
+        {
+          "word": " number",
+          "start": 338.4,
+          "end": 338.58,
+          "probability": 0.9364516139030457
+        },
+        {
+          "word": " 16",
+          "start": 338.58,
+          "end": 339.04,
+          "probability": 0.9348567724227905
+        },
+        {
+          "word": " priority",
+          "start": 339.04,
+          "end": 339.42,
+          "probability": 0.8905858397483826
+        },
+        {
+          "word": " one",
+          "start": 339.42,
+          "end": 339.82,
+          "probability": 0.7590727806091309
+        },
+        {
+          "word": " bottom",
+          "start": 339.82,
+          "end": 340.1,
+          "probability": 0.8961397409439087
+        },
+        {
+          "word": " rear",
+          "start": 340.1,
+          "end": 340.3,
+          "probability": 0.9669221043586731
+        },
+        {
+          "word": " crack",
+          "start": 340.3,
+          "end": 340.62,
+          "probability": 0.9567049145698547
+        },
+        {
+          "word": " tread",
+          "start": 340.62,
+          "end": 341.0,
+          "probability": 0.8354626297950745
+        },
+        {
+          "word": " number",
+          "start": 341.0,
+          "end": 341.26,
+          "probability": 0.9910591244697571
+        },
+        {
+          "word": " 15",
+          "start": 341.26,
+          "end": 341.76,
+          "probability": 0.9900704026222229
+        },
+        {
+          "word": " priority",
+          "start": 341.76,
+          "end": 342.08,
+          "probability": 0.9956538677215576
+        },
+        {
+          "word": " one",
+          "start": 342.08,
+          "end": 342.6,
+          "probability": 0.9584299325942993
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 33736,
+      "start": 342.6,
+      "end": 349.26,
+      "text": " bottom rear crack screenshot tried number 14 priority one bottom rear",
+      "tokens": [
+        50626,
+        4220,
+        8286,
+        8469,
+        22032,
+        3088,
+        1271,
+        1478,
+        8475,
+        530,
+        4220,
+        8286,
+        50962
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6506453427401456,
+      "compression_ratio": 2.5595238095238093,
+      "no_speech_prob": 0.24630731344223022,
+      "words": [
+        {
+          "word": " bottom",
+          "start": 342.6,
+          "end": 343.54,
+          "probability": 0.9745785593986511
+        },
+        {
+          "word": " rear",
+          "start": 343.54,
+          "end": 343.82,
+          "probability": 0.994860053062439
+        },
+        {
+          "word": " crack",
+          "start": 343.82,
+          "end": 344.22,
+          "probability": 0.9974092841148376
+        },
+        {
+          "word": " screenshot",
+          "start": 344.22,
+          "end": 345.64,
+          "probability": 0.8457893133163452
+        },
+        {
+          "word": " tried",
+          "start": 345.64,
+          "end": 347.36,
+          "probability": 0.1426709145307541
+        },
+        {
+          "word": " number",
+          "start": 347.36,
+          "end": 347.58,
+          "probability": 0.9948268532752991
+        },
+        {
+          "word": " 14",
+          "start": 347.58,
+          "end": 348.1,
+          "probability": 0.9910883903503418
+        },
+        {
+          "word": " priority",
+          "start": 348.1,
+          "end": 348.44,
+          "probability": 0.9972797632217407
+        },
+        {
+          "word": " one",
+          "start": 348.44,
+          "end": 348.84,
+          "probability": 0.9902122616767883
+        },
+        {
+          "word": " bottom",
+          "start": 348.84,
+          "end": 349.04,
+          "probability": 0.9972647428512573
+        },
+        {
+          "word": " rear",
+          "start": 349.04,
+          "end": 349.26,
+          "probability": 0.9926934242248535
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 33736,
+      "start": 349.26,
+      "end": 351.22,
+      "text": " crack tread number",
+      "tokens": [
+        50962,
+        8469,
+        23153,
+        1271,
+        51164
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6506453427401456,
+      "compression_ratio": 2.5595238095238093,
+      "no_speech_prob": 0.24630731344223022,
+      "words": [
+        {
+          "word": " crack",
+          "start": 349.26,
+          "end": 349.62,
+          "probability": 0.9981023669242859
+        },
+        {
+          "word": " tread",
+          "start": 349.62,
+          "end": 350.68,
+          "probability": 0.9629608392715454
+        },
+        {
+          "word": " number",
+          "start": 350.68,
+          "end": 351.22,
+          "probability": 0.997426450252533
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 33736,
+      "start": 356.03999999999996,
+      "end": 360.78,
+      "text": " thirteen priority one bottom rear crack screenshot",
+      "tokens": [
+        51267,
+        28306,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        22032,
+        51634
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.6506453427401456,
+      "compression_ratio": 2.5595238095238093,
+      "no_speech_prob": 0.24630731344223022,
+      "words": [
+        {
+          "word": " thirteen",
+          "start": 356.03999999999996,
+          "end": 356.84,
+          "probability": 0.06326200813055038
+        },
+        {
+          "word": " priority",
+          "start": 356.84,
+          "end": 357.64,
+          "probability": 0.9935697317123413
+        },
+        {
+          "word": " one",
+          "start": 357.64,
+          "end": 358.12,
+          "probability": 0.9931218028068542
+        },
+        {
+          "word": " bottom",
+          "start": 358.12,
+          "end": 359.34,
+          "probability": 0.9928192496299744
+        },
+        {
+          "word": " rear",
+          "start": 359.34,
+          "end": 359.62,
+          "probability": 0.9935372471809387
+        },
+        {
+          "word": " crack",
+          "start": 359.62,
+          "end": 360.0,
+          "probability": 0.996616780757904
+        },
+        {
+          "word": " screenshot",
+          "start": 360.0,
+          "end": 360.78,
+          "probability": 0.9401600360870361
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 36078,
+      "start": 360.78,
+      "end": 373.68,
+      "text": " chat. Tread number 12 priority one bottom rear crack. Tread number 11 priority one",
+      "tokens": [
+        50363,
+        8537,
+        13,
+        309,
+        961,
+        1271,
+        1105,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        13,
+        309,
+        961,
+        1271,
+        1367,
+        8475,
+        530,
+        51011
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4009506576939633,
+      "compression_ratio": 2.2238805970149254,
+      "no_speech_prob": 0.202269047498703,
+      "words": [
+        {
+          "word": " chat.",
+          "start": 360.78,
+          "end": 361.1,
+          "probability": 0.01785016804933548
+        },
+        {
+          "word": " Tread",
+          "start": 363.58,
+          "end": 364.22,
+          "probability": 0.61934794485569
+        },
+        {
+          "word": " number",
+          "start": 364.22,
+          "end": 364.54,
+          "probability": 0.9346871972084045
+        },
+        {
+          "word": " 12",
+          "start": 364.54,
+          "end": 367.52,
+          "probability": 0.8681003451347351
+        },
+        {
+          "word": " priority",
+          "start": 367.52,
+          "end": 368.06,
+          "probability": 0.7244265675544739
+        },
+        {
+          "word": " one",
+          "start": 368.06,
+          "end": 368.44,
+          "probability": 0.7902252674102783
+        },
+        {
+          "word": " bottom",
+          "start": 368.44,
+          "end": 368.7,
+          "probability": 0.5817844271659851
+        },
+        {
+          "word": " rear",
+          "start": 368.7,
+          "end": 368.9,
+          "probability": 0.9600080847740173
+        },
+        {
+          "word": " crack.",
+          "start": 368.9,
+          "end": 369.22,
+          "probability": 0.960655152797699
+        },
+        {
+          "word": " Tread",
+          "start": 369.92,
+          "end": 370.3,
+          "probability": 0.9844424724578857
+        },
+        {
+          "word": " number",
+          "start": 370.3,
+          "end": 370.74,
+          "probability": 0.9918426275253296
+        },
+        {
+          "word": " 11",
+          "start": 370.74,
+          "end": 372.86,
+          "probability": 0.9397714734077454
+        },
+        {
+          "word": " priority",
+          "start": 372.86,
+          "end": 373.3,
+          "probability": 0.98110032081604
+        },
+        {
+          "word": " one",
+          "start": 373.3,
+          "end": 373.68,
+          "probability": 0.9728890061378479
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 36078,
+      "start": 373.68,
+      "end": 376.44,
+      "text": " bottom rear crack. Tread number 10 priority one bottom rear crack.",
+      "tokens": [
+        51011,
+        4220,
+        8286,
+        8469,
+        13,
+        309,
+        961,
+        1271,
+        838,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        13,
+        51247
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4009506576939633,
+      "compression_ratio": 2.2238805970149254,
+      "no_speech_prob": 0.202269047498703,
+      "words": [
+        {
+          "word": " bottom",
+          "start": 373.68,
+          "end": 373.94,
+          "probability": 0.9816442728042603
+        },
+        {
+          "word": " rear",
+          "start": 373.94,
+          "end": 374.1,
+          "probability": 0.9838505387306213
+        },
+        {
+          "word": " crack.",
+          "start": 374.1,
+          "end": 374.38,
+          "probability": 0.9940365552902222
+        },
+        {
+          "word": " Tread",
+          "start": 374.52,
+          "end": 374.6,
+          "probability": 0.9677011370658875
+        },
+        {
+          "word": " number",
+          "start": 374.6,
+          "end": 374.8,
+          "probability": 0.9925368428230286
+        },
+        {
+          "word": " 10",
+          "start": 374.8,
+          "end": 375.04,
+          "probability": 0.9609760642051697
+        },
+        {
+          "word": " priority",
+          "start": 375.04,
+          "end": 375.26,
+          "probability": 0.9864628911018372
+        },
+        {
+          "word": " one",
+          "start": 375.26,
+          "end": 375.7,
+          "probability": 0.9857134819030762
+        },
+        {
+          "word": " bottom",
+          "start": 375.7,
+          "end": 375.98,
+          "probability": 0.9931208491325378
+        },
+        {
+          "word": " rear",
+          "start": 375.98,
+          "end": 376.12,
+          "probability": 0.9859322309494019
+        },
+        {
+          "word": " crack.",
+          "start": 376.12,
+          "end": 376.44,
+          "probability": 0.9966991543769836
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 37644,
+      "start": 386.54,
+      "end": 390.64,
+      "text": " at apartment 112.",
+      "tokens": [
+        50363,
+        379,
+        7962,
+        13539,
+        13,
+        51778
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8944256901741028,
+      "compression_ratio": 0.68,
+      "no_speech_prob": 0.1873466670513153,
+      "words": [
+        {
+          "word": " at",
+          "start": 386.54,
+          "end": 387.94,
+          "probability": 0.13310886919498444
+        },
+        {
+          "word": " apartment",
+          "start": 387.94,
+          "end": 389.34,
+          "probability": 0.28625163435935974
+        },
+        {
+          "word": " 112.",
+          "start": 389.34,
+          "end": 390.64,
+          "probability": 0.7972840070724487
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 39064,
+      "start": 419.20000000000005,
+      "end": 420.6,
+      "text": " 12.",
+      "tokens": [
+        50363,
+        1105,
+        13,
+        51067
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8801047801971436,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.08694859594106674,
+      "words": [
+        {
+          "word": " 12.",
+          "start": 419.20000000000005,
+          "end": 420.6,
+          "probability": 0.006873613223433495
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 42060,
+      "start": 420.6,
+      "end": 427.2,
+      "text": " This is 300 cubic.",
+      "tokens": [
+        50363,
+        770,
+        318,
+        5867,
+        27216,
+        13,
+        51817
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.500647438897027,
+      "compression_ratio": 0.75,
+      "no_speech_prob": 0.15907742083072662,
+      "words": [
+        {
+          "word": " This",
+          "start": 420.6,
+          "end": 422.44,
+          "probability": 0.0024141352623701096
+        },
+        {
+          "word": " is",
+          "start": 422.44,
+          "end": 422.64,
+          "probability": 0.700973629951477
+        },
+        {
+          "word": " 300",
+          "start": 422.64,
+          "end": 423.24,
+          "probability": 6.790586485294625e-05
+        },
+        {
+          "word": " cubic.",
+          "start": 423.24,
+          "end": 427.2,
+          "probability": 0.00032098396332003176
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 42720,
+      "start": 445.12,
+      "end": 446.94,
+      "text": " Stringers priority.",
+      "tokens": [
+        50363,
+        10903,
+        364,
+        8475,
+        13,
+        51707
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7193893790245056,
+      "compression_ratio": 0.7037037037037037,
+      "no_speech_prob": 0.06142101064324379,
+      "words": [
+        {
+          "word": " Stringers",
+          "start": 445.12,
+          "end": 446.52,
+          "probability": 0.5932605266571045
+        },
+        {
+          "word": " priority.",
+          "start": 446.52,
+          "end": 446.94,
+          "probability": 0.8865059018135071
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 44694,
+      "start": 446.94,
+      "end": 456.92,
+      "text": " priority. One for a finish screenshot.",
+      "tokens": [
+        50363,
+        8475,
+        13,
+        1881,
+        329,
+        257,
+        5461,
+        22032,
+        13,
+        50973
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7459290244362571,
+      "compression_ratio": 0.8260869565217391,
+      "no_speech_prob": 0.06667570024728775,
+      "words": [
+        {
+          "word": " priority.",
+          "start": 446.94,
+          "end": 447.32,
+          "probability": 0.06773944199085236
+        },
+        {
+          "word": " One",
+          "start": 452.68,
+          "end": 454.08,
+          "probability": 0.7395591735839844
+        },
+        {
+          "word": " for",
+          "start": 454.08,
+          "end": 455.46,
+          "probability": 0.8404650688171387
+        },
+        {
+          "word": " a",
+          "start": 455.46,
+          "end": 455.56,
+          "probability": 0.5167363286018372
+        },
+        {
+          "word": " finish",
+          "start": 455.56,
+          "end": 455.84,
+          "probability": 0.7574765086174011
+        },
+        {
+          "word": " screenshot.",
+          "start": 455.84,
+          "end": 456.92,
+          "probability": 0.8266730904579163
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 47694,
+      "start": 477.62,
+      "end": 478.88,
+      "text": " What are you going to do now?",
+      "tokens": [
+        50363,
+        1867,
+        389,
+        345,
+        1016,
+        284,
+        466,
+        783,
+        30,
+        50713
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " What",
+          "start": 477.62,
+          "end": 478.22,
+          "probability": 0.01322376448661089
+        },
+        {
+          "word": " are",
+          "start": 478.22,
+          "end": 478.22,
+          "probability": 0.4955124855041504
+        },
+        {
+          "word": " you",
+          "start": 478.22,
+          "end": 478.32,
+          "probability": 0.9762048125267029
+        },
+        {
+          "word": " going",
+          "start": 478.32,
+          "end": 478.42,
+          "probability": 0.17580974102020264
+        },
+        {
+          "word": " to",
+          "start": 478.42,
+          "end": 478.58,
+          "probability": 0.98512864112854
+        },
+        {
+          "word": " do",
+          "start": 478.58,
+          "end": 478.66,
+          "probability": 0.5295258164405823
+        },
+        {
+          "word": " now?",
+          "start": 478.66,
+          "end": 478.88,
+          "probability": 0.7185088396072388
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 47694,
+      "start": 484.08,
+      "end": 485.28,
+      "text": " Department 118.",
+      "tokens": [
+        50713,
+        2732,
+        19035,
+        13,
+        50913
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Department",
+          "start": 484.08,
+          "end": 484.68,
+          "probability": 0.3080120086669922
+        },
+        {
+          "word": " 118.",
+          "start": 484.68,
+          "end": 485.28,
+          "probability": 0.8175321221351624
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 47694,
+      "start": 487.74,
+      "end": 489.36,
+      "text": " Tread number 18.",
+      "tokens": [
+        50913,
+        309,
+        961,
+        1271,
+        1248,
+        13,
+        51013
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 487.74,
+          "end": 488.34,
+          "probability": 0.5400742441415787
+        },
+        {
+          "word": " number",
+          "start": 488.34,
+          "end": 488.54,
+          "probability": 0.9265359044075012
+        },
+        {
+          "word": " 18.",
+          "start": 488.54,
+          "end": 489.36,
+          "probability": 0.978918731212616
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 47694,
+      "start": 490.34,
+      "end": 491.5,
+      "text": " Priority 1.",
+      "tokens": [
+        51013,
+        34416,
+        352,
+        13,
+        51113
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Priority",
+          "start": 490.34,
+          "end": 490.9,
+          "probability": 0.9504703283309937
+        },
+        {
+          "word": " 1.",
+          "start": 490.9,
+          "end": 491.5,
+          "probability": 0.31224948167800903
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 47694,
+      "start": 491.98,
+      "end": 492.86,
+      "text": " Bottom rear crack.",
+      "tokens": [
+        51113,
+        24530,
+        8286,
+        8469,
+        13,
+        51213
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Bottom",
+          "start": 491.98,
+          "end": 492.34,
+          "probability": 0.9785229563713074
+        },
+        {
+          "word": " rear",
+          "start": 492.34,
+          "end": 492.54,
+          "probability": 0.7582144737243652
+        },
+        {
+          "word": " crack.",
+          "start": 492.54,
+          "end": 492.86,
+          "probability": 0.9814146161079407
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 47694,
+      "start": 493.62,
+      "end": 494.46,
+      "text": " Tread number 17.",
+      "tokens": [
+        51213,
+        309,
+        961,
+        1271,
+        1596,
+        13,
+        51263
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 493.62,
+          "end": 493.8,
+          "probability": 0.9839730560779572
+        },
+        {
+          "word": " number",
+          "start": 493.8,
+          "end": 494.04,
+          "probability": 0.9924115538597107
+        },
+        {
+          "word": " 17.",
+          "start": 494.04,
+          "end": 494.46,
+          "probability": 0.9912569522857666
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 47694,
+      "start": 494.8,
+      "end": 495.34,
+      "text": " Priority 1.",
+      "tokens": [
+        51263,
+        34416,
+        352,
+        13,
+        51313
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Priority",
+          "start": 494.8,
+          "end": 494.94,
+          "probability": 0.9611169099807739
+        },
+        {
+          "word": " 1.",
+          "start": 494.94,
+          "end": 495.34,
+          "probability": 0.9863561391830444
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 47694,
+      "start": 495.44,
+      "end": 496.08,
+      "text": " Bottom rear crack.",
+      "tokens": [
+        51313,
+        24530,
+        8286,
+        8469,
+        13,
+        51363
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Bottom",
+          "start": 495.44,
+          "end": 495.62,
+          "probability": 0.9945331811904907
+        },
+        {
+          "word": " rear",
+          "start": 495.62,
+          "end": 495.78,
+          "probability": 0.9946092367172241
+        },
+        {
+          "word": " crack.",
+          "start": 495.78,
+          "end": 496.08,
+          "probability": 0.9984800219535828
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 47694,
+      "start": 496.64,
+      "end": 497.38,
+      "text": " Tread number 16.",
+      "tokens": [
+        51363,
+        309,
+        961,
+        1271,
+        1467,
+        13,
+        51413
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 496.64,
+          "end": 496.92,
+          "probability": 0.9944894909858704
+        },
+        {
+          "word": " number",
+          "start": 496.92,
+          "end": 497.08,
+          "probability": 0.9954845905303955
+        },
+        {
+          "word": " 16.",
+          "start": 497.08,
+          "end": 497.38,
+          "probability": 0.9974387884140015
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 47694,
+      "start": 497.7,
+      "end": 498.28,
+      "text": " Priority 2.",
+      "tokens": [
+        51413,
+        34416,
+        362,
+        13,
+        51463
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Priority",
+          "start": 497.7,
+          "end": 497.82,
+          "probability": 0.9738684892654419
+        },
+        {
+          "word": " 2.",
+          "start": 497.82,
+          "end": 498.28,
+          "probability": 0.9890909790992737
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 47694,
+      "start": 498.46,
+      "end": 499.1,
+      "text": " Bottom rear crack.",
+      "tokens": [
+        51463,
+        24530,
+        8286,
+        8469,
+        13,
+        51513
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Bottom",
+          "start": 498.46,
+          "end": 498.58,
+          "probability": 0.9957914352416992
+        },
+        {
+          "word": " rear",
+          "start": 498.58,
+          "end": 498.78,
+          "probability": 0.9940423369407654
+        },
+        {
+          "word": " crack.",
+          "start": 498.78,
+          "end": 499.1,
+          "probability": 0.9986234903335571
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 47694,
+      "start": 499.66,
+      "end": 500.52,
+      "text": " Tread number 15.",
+      "tokens": [
+        51513,
+        309,
+        961,
+        1271,
+        1315,
+        13,
+        51563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 499.66,
+          "end": 499.94,
+          "probability": 0.9947850108146667
+        },
+        {
+          "word": " number",
+          "start": 499.94,
+          "end": 500.1,
+          "probability": 0.9957271814346313
+        },
+        {
+          "word": " 15.",
+          "start": 500.1,
+          "end": 500.52,
+          "probability": 0.9977680444717407
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 47694,
+      "start": 500.72,
+      "end": 501.32,
+      "text": " Priority 2.",
+      "tokens": [
+        51563,
+        34416,
+        362,
+        13,
+        51613
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Priority",
+          "start": 500.72,
+          "end": 500.88,
+          "probability": 0.9728590846061707
+        },
+        {
+          "word": " 2.",
+          "start": 500.88,
+          "end": 501.32,
+          "probability": 0.9943038821220398
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 47694,
+      "start": 501.44,
+      "end": 502.1,
+      "text": " Bottom rear crack.",
+      "tokens": [
+        51613,
+        24530,
+        8286,
+        8469,
+        13,
+        51663
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2478413956888606,
+      "compression_ratio": 2.1944444444444446,
+      "no_speech_prob": 0.19531238079071045,
+      "words": [
+        {
+          "word": " Bottom",
+          "start": 501.44,
+          "end": 501.6,
+          "probability": 0.9968981742858887
+        },
+        {
+          "word": " rear",
+          "start": 501.6,
+          "end": 501.78,
+          "probability": 0.9932977557182312
+        },
+        {
+          "word": " crack.",
+          "start": 501.78,
+          "end": 502.1,
+          "probability": 0.9979519248008728
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 50210,
+      "start": 509.32000000000005,
+      "end": 515.6,
+      "text": " Tread number nine priority one bottom rear crack. Tread number eight priority one bottom rear crack.",
+      "tokens": [
+        50363,
+        309,
+        961,
+        1271,
+        5193,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        13,
+        309,
+        961,
+        1271,
+        3624,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        13,
+        51039
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39693908130421357,
+      "compression_ratio": 1.881578947368421,
+      "no_speech_prob": 0.17831070721149445,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 509.32000000000005,
+          "end": 510.16,
+          "probability": 0.5733520016074181
+        },
+        {
+          "word": " number",
+          "start": 510.16,
+          "end": 510.34,
+          "probability": 0.8898455500602722
+        },
+        {
+          "word": " nine",
+          "start": 510.34,
+          "end": 510.7,
+          "probability": 0.6574211120605469
+        },
+        {
+          "word": " priority",
+          "start": 510.7,
+          "end": 511.12,
+          "probability": 0.6994323134422302
+        },
+        {
+          "word": " one",
+          "start": 511.12,
+          "end": 511.68,
+          "probability": 0.9533825516700745
+        },
+        {
+          "word": " bottom",
+          "start": 511.68,
+          "end": 512.16,
+          "probability": 0.8616963624954224
+        },
+        {
+          "word": " rear",
+          "start": 512.16,
+          "end": 512.4,
+          "probability": 0.8813355565071106
+        },
+        {
+          "word": " crack.",
+          "start": 512.4,
+          "end": 512.74,
+          "probability": 0.7198367714881897
+        },
+        {
+          "word": " Tread",
+          "start": 513.22,
+          "end": 513.62,
+          "probability": 0.9872847497463226
+        },
+        {
+          "word": " number",
+          "start": 513.62,
+          "end": 513.76,
+          "probability": 0.9926274418830872
+        },
+        {
+          "word": " eight",
+          "start": 513.76,
+          "end": 514.06,
+          "probability": 0.9491614103317261
+        },
+        {
+          "word": " priority",
+          "start": 514.06,
+          "end": 514.26,
+          "probability": 0.8395035862922668
+        },
+        {
+          "word": " one",
+          "start": 514.26,
+          "end": 514.82,
+          "probability": 0.9887626767158508
+        },
+        {
+          "word": " bottom",
+          "start": 514.82,
+          "end": 515.04,
+          "probability": 0.987937867641449
+        },
+        {
+          "word": " rear",
+          "start": 515.04,
+          "end": 515.28,
+          "probability": 0.987130343914032
+        },
+        {
+          "word": " crack.",
+          "start": 515.28,
+          "end": 515.6,
+          "probability": 0.9733870625495911
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 50210,
+      "start": 521.0600000000001,
+      "end": 525.96,
+      "text": " Tread number one priority two rear cracks.",
+      "tokens": [
+        51311,
+        309,
+        961,
+        1271,
+        530,
+        8475,
+        734,
+        8286,
+        23217,
+        13,
+        51559
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.39693908130421357,
+      "compression_ratio": 1.881578947368421,
+      "no_speech_prob": 0.17831070721149445,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 520.76,
+          "end": 521.18,
+          "probability": 0.9932470917701721
+        },
+        {
+          "word": " number",
+          "start": 521.18,
+          "end": 522.02,
+          "probability": 0.9948988556861877
+        },
+        {
+          "word": " one",
+          "start": 522.02,
+          "end": 522.4,
+          "probability": 0.9941391944885254
+        },
+        {
+          "word": " priority",
+          "start": 522.4,
+          "end": 524.06,
+          "probability": 0.8817017078399658
+        },
+        {
+          "word": " two",
+          "start": 524.06,
+          "end": 524.62,
+          "probability": 0.974299967288971
+        },
+        {
+          "word": " rear",
+          "start": 524.62,
+          "end": 525.54,
+          "probability": 0.9971135854721069
+        },
+        {
+          "word": " cracks.",
+          "start": 525.54,
+          "end": 525.96,
+          "probability": 0.9922014474868774
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 53210,
+      "start": 539.5400000000001,
+      "end": 552.96,
+      "text": " Tread number eight priority one top rear crack",
+      "tokens": [
+        50363,
+        309,
+        961,
+        1271,
+        3624,
+        8475,
+        530,
+        1353,
+        8286,
+        8469,
+        51407
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6685001666729267,
+      "compression_ratio": 0.8679245283018868,
+      "no_speech_prob": 0.08920475095510483,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 539.5400000000001,
+          "end": 540.94,
+          "probability": 0.4373753070831299
+        },
+        {
+          "word": " number",
+          "start": 540.94,
+          "end": 541.22,
+          "probability": 0.9399880766868591
+        },
+        {
+          "word": " eight",
+          "start": 541.22,
+          "end": 541.88,
+          "probability": 0.6135653853416443
+        },
+        {
+          "word": " priority",
+          "start": 541.88,
+          "end": 543.42,
+          "probability": 0.7953895926475525
+        },
+        {
+          "word": " one",
+          "start": 543.42,
+          "end": 548.76,
+          "probability": 0.39259225130081177
+        },
+        {
+          "word": " top",
+          "start": 548.76,
+          "end": 550.04,
+          "probability": 0.3881615102291107
+        },
+        {
+          "word": " rear",
+          "start": 550.04,
+          "end": 552.48,
+          "probability": 0.8673326373100281
+        },
+        {
+          "word": " crack",
+          "start": 552.48,
+          "end": 552.96,
+          "probability": 0.974413275718689
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 55296,
+      "start": 552.96,
+      "end": 561.88,
+      "text": " Track number 9 priority 2 top rear crack.",
+      "tokens": [
+        50363,
+        17762,
+        1271,
+        860,
+        8475,
+        362,
+        1353,
+        8286,
+        8469,
+        13,
+        51281
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5175074338912964,
+      "compression_ratio": 1.4482758620689655,
+      "no_speech_prob": 0.16696186363697052,
+      "words": [
+        {
+          "word": " Track",
+          "start": 552.96,
+          "end": 553.16,
+          "probability": 0.05999215692281723
+        },
+        {
+          "word": " number",
+          "start": 553.16,
+          "end": 553.58,
+          "probability": 0.6135369539260864
+        },
+        {
+          "word": " 9",
+          "start": 553.58,
+          "end": 557.84,
+          "probability": 0.43070563673973083
+        },
+        {
+          "word": " priority",
+          "start": 557.84,
+          "end": 560.02,
+          "probability": 0.3158341646194458
+        },
+        {
+          "word": " 2",
+          "start": 560.02,
+          "end": 560.76,
+          "probability": 0.6992848515510559
+        },
+        {
+          "word": " top",
+          "start": 560.76,
+          "end": 561.28,
+          "probability": 0.8651911616325378
+        },
+        {
+          "word": " rear",
+          "start": 561.28,
+          "end": 561.5,
+          "probability": 0.9634904861450195
+        },
+        {
+          "word": " crack.",
+          "start": 561.5,
+          "end": 561.88,
+          "probability": 0.9362138509750366
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 55296,
+      "start": 570.24,
+      "end": 574.82,
+      "text": " Track number 18 priority 1 top rear crack.",
+      "tokens": [
+        51281,
+        17762,
+        1271,
+        1248,
+        8475,
+        352,
+        1353,
+        8286,
+        8469,
+        13,
+        51589
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5175074338912964,
+      "compression_ratio": 1.4482758620689655,
+      "no_speech_prob": 0.16696186363697052,
+      "words": [
+        {
+          "word": " Track",
+          "start": 570.24,
+          "end": 571.24,
+          "probability": 0.9357744455337524
+        },
+        {
+          "word": " number",
+          "start": 571.24,
+          "end": 571.56,
+          "probability": 0.9874516129493713
+        },
+        {
+          "word": " 18",
+          "start": 571.56,
+          "end": 572.0,
+          "probability": 0.988775372505188
+        },
+        {
+          "word": " priority",
+          "start": 572.0,
+          "end": 572.82,
+          "probability": 0.9578291177749634
+        },
+        {
+          "word": " 1",
+          "start": 572.82,
+          "end": 573.3,
+          "probability": 0.9703397154808044
+        },
+        {
+          "word": " top",
+          "start": 573.3,
+          "end": 574.14,
+          "probability": 0.9463778138160706
+        },
+        {
+          "word": " rear",
+          "start": 574.14,
+          "end": 574.42,
+          "probability": 0.993961751461029
+        },
+        {
+          "word": " crack.",
+          "start": 574.42,
+          "end": 574.82,
+          "probability": 0.9985128045082092
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 57482,
+      "start": 576.68,
+      "end": 604.46,
+      "text": " Now department 126, tread 18, priority 2, bottom rear crack, tread 17, priority 2, bottom rear crack.",
+      "tokens": [
+        50363,
+        2735,
+        5011,
+        19710,
+        11,
+        23153,
+        1248,
+        11,
+        8475,
+        362,
+        11,
+        4220,
+        8286,
+        8469,
+        11,
+        23153,
+        1596,
+        11,
+        8475,
+        362,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        50980
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.490044185093471,
+      "compression_ratio": 1.4027777777777777,
+      "no_speech_prob": 0.2626761496067047,
+      "words": [
+        {
+          "word": " Now",
+          "start": 576.68,
+          "end": 577.52,
+          "probability": 0.04584921896457672
+        },
+        {
+          "word": " department",
+          "start": 577.52,
+          "end": 577.7,
+          "probability": 0.4364359378814697
+        },
+        {
+          "word": " 126,",
+          "start": 577.7,
+          "end": 578.58,
+          "probability": 0.9712696075439453
+        },
+        {
+          "word": " tread",
+          "start": 580.08,
+          "end": 580.44,
+          "probability": 0.5624897480010986
+        },
+        {
+          "word": " 18,",
+          "start": 580.44,
+          "end": 581.08,
+          "probability": 0.9845727682113647
+        },
+        {
+          "word": " priority",
+          "start": 581.76,
+          "end": 582.5,
+          "probability": 0.9870589971542358
+        },
+        {
+          "word": " 2,",
+          "start": 582.5,
+          "end": 583.04,
+          "probability": 0.28839144110679626
+        },
+        {
+          "word": " bottom",
+          "start": 583.92,
+          "end": 584.04,
+          "probability": 0.9875795245170593
+        },
+        {
+          "word": " rear",
+          "start": 584.04,
+          "end": 584.26,
+          "probability": 0.987967848777771
+        },
+        {
+          "word": " crack,",
+          "start": 584.26,
+          "end": 584.6,
+          "probability": 0.9808235168457031
+        },
+        {
+          "word": " tread",
+          "start": 584.88,
+          "end": 584.98,
+          "probability": 0.9918785095214844
+        },
+        {
+          "word": " 17,",
+          "start": 584.98,
+          "end": 585.4,
+          "probability": 0.9930445551872253
+        },
+        {
+          "word": " priority",
+          "start": 585.4,
+          "end": 585.94,
+          "probability": 0.9970500469207764
+        },
+        {
+          "word": " 2,",
+          "start": 585.94,
+          "end": 586.36,
+          "probability": 0.9653075933456421
+        },
+        {
+          "word": " bottom",
+          "start": 586.42,
+          "end": 586.62,
+          "probability": 0.9981557726860046
+        },
+        {
+          "word": " rear",
+          "start": 586.62,
+          "end": 603.94,
+          "probability": 0.9973503351211548
+        },
+        {
+          "word": " crack.",
+          "start": 603.94,
+          "end": 604.46,
+          "probability": 0.9980320334434509
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 60446,
+      "start": 604.46,
+      "end": 605.78,
+      "text": " screen shot.",
+      "tokens": [
+        50363,
+        3159,
+        2823,
+        13,
+        50528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48809213638305665,
+      "compression_ratio": 1.5277777777777777,
+      "no_speech_prob": 0.1354820877313614,
+      "words": [
+        {
+          "word": " screen",
+          "start": 604.46,
+          "end": 605.44,
+          "probability": 0.3309115171432495
+        },
+        {
+          "word": " shot.",
+          "start": 605.44,
+          "end": 605.78,
+          "probability": 0.9921743869781494
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 60446,
+      "start": 614.94,
+      "end": 622.22,
+      "text": " Tread number two priority one bottom rear crack. Tread number one priority one",
+      "tokens": [
+        50885,
+        309,
+        961,
+        1271,
+        734,
+        8475,
+        530,
+        4220,
+        8286,
+        8469,
+        13,
+        309,
+        961,
+        1271,
+        530,
+        8475,
+        530,
+        51257
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48809213638305665,
+      "compression_ratio": 1.5277777777777777,
+      "no_speech_prob": 0.1354820877313614,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 614.94,
+          "end": 615.9,
+          "probability": 0.4821247160434723
+        },
+        {
+          "word": " number",
+          "start": 615.9,
+          "end": 616.1,
+          "probability": 0.9640531539916992
+        },
+        {
+          "word": " two",
+          "start": 616.1,
+          "end": 617.1,
+          "probability": 0.8063053488731384
+        },
+        {
+          "word": " priority",
+          "start": 617.1,
+          "end": 617.64,
+          "probability": 0.6673308610916138
+        },
+        {
+          "word": " one",
+          "start": 617.64,
+          "end": 618.16,
+          "probability": 0.9561915397644043
+        },
+        {
+          "word": " bottom",
+          "start": 618.16,
+          "end": 619.26,
+          "probability": 0.4567680358886719
+        },
+        {
+          "word": " rear",
+          "start": 619.26,
+          "end": 619.54,
+          "probability": 0.9754332304000854
+        },
+        {
+          "word": " crack.",
+          "start": 619.54,
+          "end": 619.9,
+          "probability": 0.9730537533760071
+        },
+        {
+          "word": " Tread",
+          "start": 620.38,
+          "end": 620.66,
+          "probability": 0.991635799407959
+        },
+        {
+          "word": " number",
+          "start": 620.66,
+          "end": 620.88,
+          "probability": 0.9972360730171204
+        },
+        {
+          "word": " one",
+          "start": 620.88,
+          "end": 621.24,
+          "probability": 0.9947968125343323
+        },
+        {
+          "word": " priority",
+          "start": 621.24,
+          "end": 621.62,
+          "probability": 0.9824445843696594
+        },
+        {
+          "word": " one",
+          "start": 621.62,
+          "end": 622.22,
+          "probability": 0.9921912550926208
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 60446,
+      "start": 622.22,
+      "end": 623.84,
+      "text": " bottom rear crack.",
+      "tokens": [
+        51257,
+        4220,
+        8286,
+        8469,
+        13,
+        51435
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.48809213638305665,
+      "compression_ratio": 1.5277777777777777,
+      "no_speech_prob": 0.1354820877313614,
+      "words": [
+        {
+          "word": " bottom",
+          "start": 622.22,
+          "end": 623.2,
+          "probability": 0.9783756136894226
+        },
+        {
+          "word": " rear",
+          "start": 623.2,
+          "end": 623.48,
+          "probability": 0.9927185773849487
+        },
+        {
+          "word": " crack.",
+          "start": 623.48,
+          "end": 623.84,
+          "probability": 0.997210681438446
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 63446,
+      "start": 637.22,
+      "end": 643.74,
+      "text": " Dread number two priority two top center crack.",
+      "tokens": [
+        50363,
+        27005,
+        1271,
+        734,
+        8475,
+        734,
+        1353,
+        3641,
+        8469,
+        13,
+        50835
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7540132204691569,
+      "compression_ratio": 0.94,
+      "no_speech_prob": 0.0677381306886673,
+      "words": [
+        {
+          "word": " Dread",
+          "start": 637.22,
+          "end": 638.58,
+          "probability": 0.24922999739646912
+        },
+        {
+          "word": " number",
+          "start": 638.58,
+          "end": 638.82,
+          "probability": 0.9357874989509583
+        },
+        {
+          "word": " two",
+          "start": 638.82,
+          "end": 639.18,
+          "probability": 0.8719537854194641
+        },
+        {
+          "word": " priority",
+          "start": 639.18,
+          "end": 641.32,
+          "probability": 0.6503003239631653
+        },
+        {
+          "word": " two",
+          "start": 641.32,
+          "end": 642.0,
+          "probability": 0.6555473208427429
+        },
+        {
+          "word": " top",
+          "start": 642.0,
+          "end": 643.06,
+          "probability": 0.8743378520011902
+        },
+        {
+          "word": " center",
+          "start": 643.06,
+          "end": 643.38,
+          "probability": 0.9087416529655457
+        },
+        {
+          "word": " crack.",
+          "start": 643.38,
+          "end": 643.74,
+          "probability": 0.9186845421791077
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 66446,
+      "start": 674.0600000000001,
+      "end": 680.66,
+      "text": " Department 137, Building 1.",
+      "tokens": [
+        50363,
+        2732,
+        21643,
+        11,
+        11819,
+        352,
+        13,
+        51222
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.9768016815185547,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.1442456841468811,
+      "words": [
+        {
+          "word": " Department",
+          "start": 674.0600000000001,
+          "end": 675.46,
+          "probability": 0.2667624354362488
+        },
+        {
+          "word": " 137,",
+          "start": 675.46,
+          "end": 676.1,
+          "probability": 0.9679985046386719
+        },
+        {
+          "word": " Building",
+          "start": 676.94,
+          "end": 679.7,
+          "probability": 0.7127732634544373
+        },
+        {
+          "word": " 1.",
+          "start": 679.7,
+          "end": 680.66,
+          "probability": 0.6833965182304382
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 68066,
+      "start": 683.88,
+      "end": 690.46,
+      "text": " Tread 16, priority one, top front and rear cracks, screenshot.",
+      "tokens": [
+        50363,
+        309,
+        961,
+        1467,
+        11,
+        8475,
+        530,
+        11,
+        1353,
+        2166,
+        290,
+        8286,
+        23217,
+        11,
+        22032,
+        13,
+        51451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3575107574462891,
+      "compression_ratio": 1.3820224719101124,
+      "no_speech_prob": 0.0797945111989975,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 683.88,
+          "end": 684.76,
+          "probability": 0.46799251809716225
+        },
+        {
+          "word": " 16,",
+          "start": 684.76,
+          "end": 685.18,
+          "probability": 0.9520715475082397
+        },
+        {
+          "word": " priority",
+          "start": 685.72,
+          "end": 686.04,
+          "probability": 0.8018594980239868
+        },
+        {
+          "word": " one,",
+          "start": 686.04,
+          "end": 686.56,
+          "probability": 0.5418134927749634
+        },
+        {
+          "word": " top",
+          "start": 687.42,
+          "end": 687.46,
+          "probability": 0.967716634273529
+        },
+        {
+          "word": " front",
+          "start": 687.46,
+          "end": 687.84,
+          "probability": 0.816911518573761
+        },
+        {
+          "word": " and",
+          "start": 687.84,
+          "end": 688.32,
+          "probability": 0.7935015559196472
+        },
+        {
+          "word": " rear",
+          "start": 688.32,
+          "end": 688.52,
+          "probability": 0.9994903802871704
+        },
+        {
+          "word": " cracks,",
+          "start": 688.52,
+          "end": 688.96,
+          "probability": 0.981092631816864
+        },
+        {
+          "word": " screenshot.",
+          "start": 689.62,
+          "end": 690.46,
+          "probability": 0.7048957943916321
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 68066,
+      "start": 701.5,
+      "end": 706.42,
+      "text": " Tread number eight, priority two, top front and rear cracks.",
+      "tokens": [
+        51451,
+        309,
+        961,
+        1271,
+        3624,
+        11,
+        8475,
+        734,
+        11,
+        1353,
+        2166,
+        290,
+        8286,
+        23217,
+        13,
+        51733
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3575107574462891,
+      "compression_ratio": 1.3820224719101124,
+      "no_speech_prob": 0.0797945111989975,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 701.5,
+          "end": 702.38,
+          "probability": 0.987908273935318
+        },
+        {
+          "word": " number",
+          "start": 702.38,
+          "end": 702.56,
+          "probability": 0.9700226187705994
+        },
+        {
+          "word": " eight,",
+          "start": 702.56,
+          "end": 702.86,
+          "probability": 0.9171088933944702
+        },
+        {
+          "word": " priority",
+          "start": 702.98,
+          "end": 703.28,
+          "probability": 0.9979711174964905
+        },
+        {
+          "word": " two,",
+          "start": 703.28,
+          "end": 703.84,
+          "probability": 0.9935359954833984
+        },
+        {
+          "word": " top",
+          "start": 704.36,
+          "end": 705.26,
+          "probability": 0.9967677593231201
+        },
+        {
+          "word": " front",
+          "start": 705.26,
+          "end": 705.66,
+          "probability": 0.7334833145141602
+        },
+        {
+          "word": " and",
+          "start": 705.66,
+          "end": 705.9,
+          "probability": 0.9930989146232605
+        },
+        {
+          "word": " rear",
+          "start": 705.9,
+          "end": 706.06,
+          "probability": 0.999377965927124
+        },
+        {
+          "word": " cracks.",
+          "start": 706.06,
+          "end": 706.42,
+          "probability": 0.9991335272789001
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 70642,
+      "start": 708.86,
+      "end": 713.7,
+      "text": " Tread 5 priority 2 top front rear cracks, Tread 4 priority 2 top front rear cracks.",
+      "tokens": [
+        50363,
+        309,
+        961,
+        642,
+        8475,
+        362,
+        1353,
+        2166,
+        8286,
+        23217,
+        11,
+        309,
+        961,
+        604,
+        8475,
+        362,
+        1353,
+        2166,
+        8286,
+        23217,
+        13,
+        50735
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47997693454518037,
+      "compression_ratio": 1.6712328767123288,
+      "no_speech_prob": 0.22801581025123596,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 708.86,
+          "end": 709.54,
+          "probability": 0.5328337773680687
+        },
+        {
+          "word": " 5",
+          "start": 709.54,
+          "end": 709.8,
+          "probability": 0.6491252779960632
+        },
+        {
+          "word": " priority",
+          "start": 709.8,
+          "end": 710.24,
+          "probability": 0.5515070557594299
+        },
+        {
+          "word": " 2",
+          "start": 710.24,
+          "end": 710.58,
+          "probability": 0.6965401768684387
+        },
+        {
+          "word": " top",
+          "start": 710.58,
+          "end": 710.86,
+          "probability": 0.8240767121315002
+        },
+        {
+          "word": " front",
+          "start": 710.86,
+          "end": 711.02,
+          "probability": 0.8654516339302063
+        },
+        {
+          "word": " rear",
+          "start": 711.02,
+          "end": 711.22,
+          "probability": 0.9678357243537903
+        },
+        {
+          "word": " cracks,",
+          "start": 711.22,
+          "end": 711.5,
+          "probability": 0.9527262449264526
+        },
+        {
+          "word": " Tread",
+          "start": 711.66,
+          "end": 711.82,
+          "probability": 0.7647863626480103
+        },
+        {
+          "word": " 4",
+          "start": 711.82,
+          "end": 712.06,
+          "probability": 0.9720003604888916
+        },
+        {
+          "word": " priority",
+          "start": 712.06,
+          "end": 712.36,
+          "probability": 0.9842979311943054
+        },
+        {
+          "word": " 2",
+          "start": 712.36,
+          "end": 712.74,
+          "probability": 0.9710221886634827
+        },
+        {
+          "word": " top",
+          "start": 712.74,
+          "end": 713.02,
+          "probability": 0.9669879674911499
+        },
+        {
+          "word": " front",
+          "start": 713.02,
+          "end": 713.16,
+          "probability": 0.9908666610717773
+        },
+        {
+          "word": " rear",
+          "start": 713.16,
+          "end": 713.36,
+          "probability": 0.970313549041748
+        },
+        {
+          "word": " cracks.",
+          "start": 713.36,
+          "end": 713.7,
+          "probability": 0.9985300302505493
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 70642,
+      "start": 721.0800000000002,
+      "end": 727.04,
+      "text": " Tread 16 priority 1 bottom rear crack.",
+      "tokens": [
+        51083,
+        309,
+        961,
+        1467,
+        8475,
+        352,
+        4220,
+        8286,
+        8469,
+        13,
+        51399
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.47997693454518037,
+      "compression_ratio": 1.6712328767123288,
+      "no_speech_prob": 0.22801581025123596,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 721.0800000000002,
+          "end": 721.7600000000001,
+          "probability": 0.9918873608112335
+        },
+        {
+          "word": " 16",
+          "start": 721.7600000000001,
+          "end": 722.44,
+          "probability": 0.9737882018089294
+        },
+        {
+          "word": " priority",
+          "start": 722.44,
+          "end": 723.44,
+          "probability": 0.9854196906089783
+        },
+        {
+          "word": " 1",
+          "start": 723.44,
+          "end": 723.98,
+          "probability": 0.9039201140403748
+        },
+        {
+          "word": " bottom",
+          "start": 723.98,
+          "end": 726.22,
+          "probability": 0.5609614253044128
+        },
+        {
+          "word": " rear",
+          "start": 726.22,
+          "end": 726.58,
+          "probability": 0.9986899495124817
+        },
+        {
+          "word": " crack.",
+          "start": 726.58,
+          "end": 727.04,
+          "probability": 0.9641227126121521
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 73642,
+      "start": 736.42,
+      "end": 740.32,
+      "text": " Try number eight, priority two, bottom rear crack.",
+      "tokens": [
+        50363,
+        9993,
+        1271,
+        3624,
+        11,
+        8475,
+        734,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        50613
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5380837700583718,
+      "compression_ratio": 1.4285714285714286,
+      "no_speech_prob": 0.008069130592048168,
+      "words": [
+        {
+          "word": " Try",
+          "start": 736.42,
+          "end": 736.6,
+          "probability": 0.13148057460784912
+        },
+        {
+          "word": " number",
+          "start": 736.6,
+          "end": 736.82,
+          "probability": 0.884263277053833
+        },
+        {
+          "word": " eight,",
+          "start": 736.82,
+          "end": 737.4,
+          "probability": 0.6222548484802246
+        },
+        {
+          "word": " priority",
+          "start": 737.44,
+          "end": 737.86,
+          "probability": 0.9798784255981445
+        },
+        {
+          "word": " two,",
+          "start": 737.86,
+          "end": 738.74,
+          "probability": 0.9704418182373047
+        },
+        {
+          "word": " bottom",
+          "start": 739.7,
+          "end": 739.78,
+          "probability": 0.9835926294326782
+        },
+        {
+          "word": " rear",
+          "start": 739.78,
+          "end": 740.0,
+          "probability": 0.9619638919830322
+        },
+        {
+          "word": " crack.",
+          "start": 740.0,
+          "end": 740.32,
+          "probability": 0.8541070222854614
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 73642,
+      "start": 741.18,
+      "end": 744.34,
+      "text": " Try number seven, priority three, bottom rear crack.",
+      "tokens": [
+        50613,
+        9993,
+        1271,
+        3598,
+        11,
+        8475,
+        1115,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        50780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5380837700583718,
+      "compression_ratio": 1.4285714285714286,
+      "no_speech_prob": 0.008069130592048168,
+      "words": [
+        {
+          "word": " Try",
+          "start": 741.18,
+          "end": 741.48,
+          "probability": 0.9589065909385681
+        },
+        {
+          "word": " number",
+          "start": 741.48,
+          "end": 741.62,
+          "probability": 0.995051920413971
+        },
+        {
+          "word": " seven,",
+          "start": 741.62,
+          "end": 742.14,
+          "probability": 0.9960126876831055
+        },
+        {
+          "word": " priority",
+          "start": 742.2,
+          "end": 742.52,
+          "probability": 0.9988686442375183
+        },
+        {
+          "word": " three,",
+          "start": 742.52,
+          "end": 743.14,
+          "probability": 0.9964389801025391
+        },
+        {
+          "word": " bottom",
+          "start": 743.38,
+          "end": 743.72,
+          "probability": 0.999212384223938
+        },
+        {
+          "word": " rear",
+          "start": 743.72,
+          "end": 743.94,
+          "probability": 0.9935182929039001
+        },
+        {
+          "word": " crack.",
+          "start": 743.94,
+          "end": 744.34,
+          "probability": 0.9873301982879639
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 73642,
+      "start": 754.74,
+      "end": 756.96,
+      "text": " I got apartment 117.",
+      "tokens": [
+        51335,
+        314,
+        1392,
+        7962,
+        19048,
+        13,
+        51449
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5380837700583718,
+      "compression_ratio": 1.4285714285714286,
+      "no_speech_prob": 0.008069130592048168,
+      "words": [
+        {
+          "word": " I",
+          "start": 754.74,
+          "end": 755.38,
+          "probability": 0.4371104836463928
+        },
+        {
+          "word": " got",
+          "start": 755.38,
+          "end": 756.02,
+          "probability": 0.778186023235321
+        },
+        {
+          "word": " apartment",
+          "start": 756.02,
+          "end": 756.24,
+          "probability": 0.5525830388069153
+        },
+        {
+          "word": " 117.",
+          "start": 756.24,
+          "end": 756.96,
+          "probability": 0.9301176071166992
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 73642,
+      "start": 762.18,
+      "end": 763.68,
+      "text": " That thing was gonna go any second.",
+      "tokens": [
+        51651,
+        1320,
+        1517,
+        373,
+        8066,
+        467,
+        597,
+        1218,
+        13,
+        51747
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5380837700583718,
+      "compression_ratio": 1.4285714285714286,
+      "no_speech_prob": 0.008069130592048168,
+      "words": [
+        {
+          "word": " That",
+          "start": 761.88,
+          "end": 762.2,
+          "probability": 0.5821256637573242
+        },
+        {
+          "word": " thing",
+          "start": 762.2,
+          "end": 762.4,
+          "probability": 0.6291986107826233
+        },
+        {
+          "word": " was",
+          "start": 762.4,
+          "end": 762.6,
+          "probability": 0.80524080991745
+        },
+        {
+          "word": " gonna",
+          "start": 762.6,
+          "end": 762.76,
+          "probability": 0.6882746815681458
+        },
+        {
+          "word": " go",
+          "start": 762.76,
+          "end": 763.02,
+          "probability": 0.9690672159194946
+        },
+        {
+          "word": " any",
+          "start": 763.02,
+          "end": 763.26,
+          "probability": 0.6510747075080872
+        },
+        {
+          "word": " second.",
+          "start": 763.26,
+          "end": 763.68,
+          "probability": 0.9983048439025879
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 76642,
+      "start": 784.5200000000001,
+      "end": 792.38,
+      "text": " Tread number 7, priority one, bottom front and rear cracks.",
+      "tokens": [
+        50363,
+        309,
+        961,
+        1271,
+        767,
+        11,
+        8475,
+        530,
+        11,
+        4220,
+        2166,
+        290,
+        8286,
+        23217,
+        13,
+        51677
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6212940745883517,
+      "compression_ratio": 0.8939393939393939,
+      "no_speech_prob": 0.09480247646570206,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 784.5200000000001,
+          "end": 785.44,
+          "probability": 0.5698661729693413
+        },
+        {
+          "word": " number",
+          "start": 785.44,
+          "end": 785.74,
+          "probability": 0.9340310096740723
+        },
+        {
+          "word": " 7,",
+          "start": 785.74,
+          "end": 788.26,
+          "probability": 0.40169912576675415
+        },
+        {
+          "word": " priority",
+          "start": 788.72,
+          "end": 789.26,
+          "probability": 0.9175494909286499
+        },
+        {
+          "word": " one,",
+          "start": 789.26,
+          "end": 789.84,
+          "probability": 0.4488532841205597
+        },
+        {
+          "word": " bottom",
+          "start": 790.68,
+          "end": 791.1,
+          "probability": 0.9793989658355713
+        },
+        {
+          "word": " front",
+          "start": 791.1,
+          "end": 791.5,
+          "probability": 0.9440333843231201
+        },
+        {
+          "word": " and",
+          "start": 791.5,
+          "end": 791.76,
+          "probability": 0.9086630344390869
+        },
+        {
+          "word": " rear",
+          "start": 791.76,
+          "end": 791.94,
+          "probability": 0.9993898868560791
+        },
+        {
+          "word": " cracks.",
+          "start": 791.94,
+          "end": 792.38,
+          "probability": 0.9735665917396545
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 79238,
+      "start": 808.86,
+      "end": 821.6,
+      "text": " Try number one priority two top front rear cracks.",
+      "tokens": [
+        50363,
+        9993,
+        1271,
+        530,
+        8475,
+        734,
+        1353,
+        2166,
+        8286,
+        23217,
+        13,
+        51498
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6992459297180176,
+      "compression_ratio": 0.8771929824561403,
+      "no_speech_prob": 0.29157185554504395,
+      "words": [
+        {
+          "word": " Try",
+          "start": 808.86,
+          "end": 810.26,
+          "probability": 0.19277366995811462
+        },
+        {
+          "word": " number",
+          "start": 810.26,
+          "end": 810.44,
+          "probability": 0.6550576686859131
+        },
+        {
+          "word": " one",
+          "start": 810.44,
+          "end": 810.82,
+          "probability": 0.8494599461555481
+        },
+        {
+          "word": " priority",
+          "start": 810.82,
+          "end": 811.2,
+          "probability": 0.947902262210846
+        },
+        {
+          "word": " two",
+          "start": 811.2,
+          "end": 811.74,
+          "probability": 0.4825935363769531
+        },
+        {
+          "word": " top",
+          "start": 811.74,
+          "end": 813.46,
+          "probability": 0.20556320250034332
+        },
+        {
+          "word": " front",
+          "start": 813.46,
+          "end": 819.18,
+          "probability": 0.9754706025123596
+        },
+        {
+          "word": " rear",
+          "start": 819.18,
+          "end": 820.58,
+          "probability": 0.4466787874698639
+        },
+        {
+          "word": " cracks.",
+          "start": 820.58,
+          "end": 821.6,
+          "probability": 0.9684225916862488
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 82160,
+      "start": 821.6,
+      "end": 823.18,
+      "text": " screen shot.",
+      "tokens": [
+        50363,
+        3159,
+        2823,
+        13,
+        50463
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.598325555974787,
+      "compression_ratio": 1.10989010989011,
+      "no_speech_prob": 0.4044301211833954,
+      "words": [
+        {
+          "word": " screen",
+          "start": 821.6,
+          "end": 822.8,
+          "probability": 0.01206052303314209
+        },
+        {
+          "word": " shot.",
+          "start": 822.8,
+          "end": 823.18,
+          "probability": 0.9581995606422424
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 82160,
+      "start": 824.0,
+      "end": 830.3,
+      "text": " Tip points are..",
+      "tokens": [
+        50489,
+        23095,
+        2173,
+        389,
+        492,
+        50556
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.598325555974787,
+      "compression_ratio": 1.10989010989011,
+      "no_speech_prob": 0.4044301211833954,
+      "words": [
+        {
+          "word": " Tip",
+          "start": 824.0,
+          "end": 824.76,
+          "probability": 0.004957734141498804
+        },
+        {
+          "word": " points",
+          "start": 824.76,
+          "end": 829.8,
+          "probability": 2.09246627491666e-05
+        },
+        {
+          "word": " are..",
+          "start": 829.8,
+          "end": 830.3,
+          "probability": 0.011590819747652858
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 82160,
+      "start": 830.3,
+      "end": 838.48,
+      "text": " supposed to be a good match for tying forehand..",
+      "tokens": [
+        50583,
+        4385,
+        284,
+        307,
+        257,
+        922,
+        2872,
+        329,
+        28379,
+        1674,
+        4993,
+        492,
+        50678
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.598325555974787,
+      "compression_ratio": 1.10989010989011,
+      "no_speech_prob": 0.4044301211833954,
+      "words": [
+        {
+          "word": " supposed",
+          "start": 830.3,
+          "end": 830.82,
+          "probability": 8.884278031473514e-06
+        },
+        {
+          "word": " to",
+          "start": 830.82,
+          "end": 830.82,
+          "probability": 0.9587510824203491
+        },
+        {
+          "word": " be",
+          "start": 830.82,
+          "end": 830.84,
+          "probability": 0.7723200917243958
+        },
+        {
+          "word": " a",
+          "start": 830.84,
+          "end": 830.84,
+          "probability": 0.08098925650119781
+        },
+        {
+          "word": " good",
+          "start": 830.84,
+          "end": 830.84,
+          "probability": 0.017392199486494064
+        },
+        {
+          "word": " match",
+          "start": 830.84,
+          "end": 830.84,
+          "probability": 0.01025474164634943
+        },
+        {
+          "word": " for",
+          "start": 830.84,
+          "end": 830.84,
+          "probability": 0.08732243627309799
+        },
+        {
+          "word": " tying",
+          "start": 830.84,
+          "end": 830.84,
+          "probability": 0.00022612884640693665
+        },
+        {
+          "word": " forehand..",
+          "start": 830.84,
+          "end": 838.48,
+          "probability": 0.03649280689811955
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "seek": 82160,
+      "start": 838.48,
+      "end": 838.48,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.598325555974787,
+      "compression_ratio": 1.10989010989011,
+      "no_speech_prob": 0.4044301211833954,
+      "words": []
+    },
+    {
+      "id": 70,
+      "seek": 82160,
+      "start": 846.32,
+      "end": 846.68,
+      "text": " 1, team",
+      "tokens": [
+        50852,
+        352,
+        11,
+        1074,
+        51055
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.598325555974787,
+      "compression_ratio": 1.10989010989011,
+      "no_speech_prob": 0.4044301211833954,
+      "words": [
+        {
+          "word": " 1,",
+          "start": 846.32,
+          "end": 846.32,
+          "probability": 0.02231416665017605
+        },
+        {
+          "word": " team",
+          "start": 846.6,
+          "end": 846.68,
+          "probability": 0.0001364017662126571
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "seek": 82160,
+      "start": 846.68,
+      "end": 848.46,
+      "text": " off",
+      "tokens": [
+        51174,
+        572,
+        51296
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.598325555974787,
+      "compression_ratio": 1.10989010989011,
+      "no_speech_prob": 0.4044301211833954,
+      "words": [
+        {
+          "word": " off",
+          "start": 846.68,
+          "end": 848.46,
+          "probability": 0.00068271643249318
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "seek": 82160,
+      "start": 848.46,
+      "end": 848.46,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.598325555974787,
+      "compression_ratio": 1.10989010989011,
+      "no_speech_prob": 0.4044301211833954,
+      "words": []
+    },
+    {
+      "id": 73,
+      "seek": 82160,
+      "start": 848.46,
+      "end": 848.46,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.598325555974787,
+      "compression_ratio": 1.10989010989011,
+      "no_speech_prob": 0.4044301211833954,
+      "words": []
+    },
+    {
+      "id": 74,
+      "seek": 84846,
+      "start": 848.46,
+      "end": 853.54,
+      "text": " I got tread number nine priority one top front crack.",
+      "tokens": [
+        50363,
+        314,
+        1392,
+        23153,
+        1271,
+        5193,
+        8475,
+        530,
+        1353,
+        2166,
+        8469,
+        13,
+        50613
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6780665261404855,
+      "compression_ratio": 0.8983050847457628,
+      "no_speech_prob": 0.22311735153198242,
+      "words": [
+        {
+          "word": " I",
+          "start": 848.46,
+          "end": 848.46,
+          "probability": 0.08282258361577988
+        },
+        {
+          "word": " got",
+          "start": 848.46,
+          "end": 848.58,
+          "probability": 0.3396625518798828
+        },
+        {
+          "word": " tread",
+          "start": 848.58,
+          "end": 849.94,
+          "probability": 0.40852123498916626
+        },
+        {
+          "word": " number",
+          "start": 849.94,
+          "end": 850.22,
+          "probability": 0.930811882019043
+        },
+        {
+          "word": " nine",
+          "start": 850.22,
+          "end": 850.98,
+          "probability": 0.6861822605133057
+        },
+        {
+          "word": " priority",
+          "start": 850.98,
+          "end": 852.08,
+          "probability": 0.6771857738494873
+        },
+        {
+          "word": " one",
+          "start": 852.08,
+          "end": 852.56,
+          "probability": 0.9693925976753235
+        },
+        {
+          "word": " top",
+          "start": 852.56,
+          "end": 853.02,
+          "probability": 0.7627661824226379
+        },
+        {
+          "word": " front",
+          "start": 853.02,
+          "end": 853.28,
+          "probability": 0.9519911408424377
+        },
+        {
+          "word": " crack.",
+          "start": 853.28,
+          "end": 853.54,
+          "probability": 0.8864888548851013
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "seek": 90846,
+      "start": 908.4799999999999,
+      "end": 911.82,
+      "text": " Building 2, apartment 218",
+      "tokens": [
+        50363,
+        11819,
+        362,
+        11,
+        7962,
+        29217,
+        50639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8094211684332954,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.1007441058754921,
+      "words": [
+        {
+          "word": " Building",
+          "start": 908.4799999999999,
+          "end": 909.68,
+          "probability": 0.7661014795303345
+        },
+        {
+          "word": " 2,",
+          "start": 909.68,
+          "end": 910.14,
+          "probability": 0.44767993688583374
+        },
+        {
+          "word": " apartment",
+          "start": 910.74,
+          "end": 911.18,
+          "probability": 0.26331403851509094
+        },
+        {
+          "word": " 218",
+          "start": 911.18,
+          "end": 911.82,
+          "probability": 0.901755154132843
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "seek": 91182,
+      "start": 940.38,
+      "end": 941.78,
+      "text": " 18.",
+      "tokens": [
+        50363,
+        1248,
+        13,
+        51577
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8080864747365316,
+      "compression_ratio": 0.2727272727272727,
+      "no_speech_prob": 0.16419820487499237,
+      "words": [
+        {
+          "word": " 18.",
+          "start": 940.38,
+          "end": 941.78,
+          "probability": 0.0005017050425522029
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "seek": 94178,
+      "start": 941.78,
+      "end": 941.78,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -2.3802466759314904,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.13511651754379272,
+      "words": []
+    },
+    {
+      "id": 78,
+      "seek": 94178,
+      "start": 962.8,
+      "end": 964.3,
+      "text": " Out of part two 26.",
+      "tokens": [
+        51411,
+        3806,
+        286,
+        636,
+        734,
+        2608,
+        13,
+        51771
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.3802466759314904,
+      "compression_ratio": 0.7575757575757576,
+      "no_speech_prob": 0.13511651754379272,
+      "words": [
+        {
+          "word": " Out",
+          "start": 962.8,
+          "end": 962.94,
+          "probability": 0.10474535077810287
+        },
+        {
+          "word": " of",
+          "start": 962.94,
+          "end": 963.02,
+          "probability": 0.7486672401428223
+        },
+        {
+          "word": " part",
+          "start": 963.02,
+          "end": 963.2,
+          "probability": 0.13478603959083557
+        },
+        {
+          "word": " two",
+          "start": 963.2,
+          "end": 963.64,
+          "probability": 0.3446839451789856
+        },
+        {
+          "word": " 26.",
+          "start": 963.64,
+          "end": 964.3,
+          "probability": 0.2654781639575958
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "seek": 97178,
+      "start": 971.78,
+      "end": 975.3,
+      "text": " Try number 18 priority three bottom center cracks",
+      "tokens": [
+        50363,
+        9993,
+        1271,
+        1248,
+        8475,
+        1115,
+        4220,
+        3641,
+        23217,
+        50533
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3484571196816184,
+      "compression_ratio": 0.875,
+      "no_speech_prob": 0.03046325594186783,
+      "words": [
+        {
+          "word": " Try",
+          "start": 971.78,
+          "end": 972.28,
+          "probability": 0.27392157912254333
+        },
+        {
+          "word": " number",
+          "start": 972.28,
+          "end": 972.46,
+          "probability": 0.9585912227630615
+        },
+        {
+          "word": " 18",
+          "start": 972.46,
+          "end": 972.88,
+          "probability": 0.9704716205596924
+        },
+        {
+          "word": " priority",
+          "start": 972.88,
+          "end": 973.52,
+          "probability": 0.922848105430603
+        },
+        {
+          "word": " three",
+          "start": 973.52,
+          "end": 974.08,
+          "probability": 0.6105861663818359
+        },
+        {
+          "word": " bottom",
+          "start": 974.08,
+          "end": 974.48,
+          "probability": 0.7675051093101501
+        },
+        {
+          "word": " center",
+          "start": 974.48,
+          "end": 974.78,
+          "probability": 0.8438969254493713
+        },
+        {
+          "word": " cracks",
+          "start": 974.78,
+          "end": 975.3,
+          "probability": 0.9632612466812134
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "seek": 100178,
+      "start": 1012.4799999999999,
+      "end": 1014.88,
+      "text": " I have really got too many setback.",
+      "tokens": [
+        50363,
+        314,
+        423,
+        1107,
+        1392,
+        1165,
+        867,
+        34116,
+        13,
+        50413
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.699296569824219,
+      "compression_ratio": 1.300751879699248,
+      "no_speech_prob": 0.061890631914138794,
+      "words": [
+        {
+          "word": " I",
+          "start": 1012.4799999999999,
+          "end": 1013.68,
+          "probability": 0.01736380159854889
+        },
+        {
+          "word": " have",
+          "start": 1013.68,
+          "end": 1014.88,
+          "probability": 0.029833558946847916
+        },
+        {
+          "word": " really",
+          "start": 1014.88,
+          "end": 1014.88,
+          "probability": 0.00014755588199477643
+        },
+        {
+          "word": " got",
+          "start": 1014.88,
+          "end": 1014.88,
+          "probability": 0.009903510101139545
+        },
+        {
+          "word": " too",
+          "start": 1014.88,
+          "end": 1014.88,
+          "probability": 0.005525697488337755
+        },
+        {
+          "word": " many",
+          "start": 1014.88,
+          "end": 1014.88,
+          "probability": 0.2756471335887909
+        },
+        {
+          "word": " setback.",
+          "start": 1014.88,
+          "end": 1014.88,
+          "probability": 6.926923106220784e-06
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "seek": 100178,
+      "start": 1014.88,
+      "end": 1015.3,
+      "text": " Trud allowed up the rest of my Turns rods being",
+      "tokens": [
+        50413,
+        833,
+        463,
+        3142,
+        510,
+        262,
+        1334,
+        286,
+        616,
+        30875,
+        32858,
+        852,
+        50718
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.699296569824219,
+      "compression_ratio": 1.300751879699248,
+      "no_speech_prob": 0.061890631914138794,
+      "words": [
+        {
+          "word": " Trud",
+          "start": 1014.88,
+          "end": 1015.24,
+          "probability": 0.40480264462530613
+        },
+        {
+          "word": " allowed",
+          "start": 1015.24,
+          "end": 1015.3,
+          "probability": 2.4779349132586503e-06
+        },
+        {
+          "word": " up",
+          "start": 1015.3,
+          "end": 1015.3,
+          "probability": 0.0032068276777863503
+        },
+        {
+          "word": " the",
+          "start": 1015.3,
+          "end": 1015.3,
+          "probability": 0.038697581738233566
+        },
+        {
+          "word": " rest",
+          "start": 1015.3,
+          "end": 1015.3,
+          "probability": 0.003775338875129819
+        },
+        {
+          "word": " of",
+          "start": 1015.3,
+          "end": 1015.3,
+          "probability": 0.7600948214530945
+        },
+        {
+          "word": " my",
+          "start": 1015.3,
+          "end": 1015.3,
+          "probability": 0.07823829352855682
+        },
+        {
+          "word": " Turns",
+          "start": 1015.3,
+          "end": 1015.3,
+          "probability": 4.6698746700712945e-06
+        },
+        {
+          "word": " rods",
+          "start": 1015.3,
+          "end": 1015.3,
+          "probability": 1.0879256478801835e-05
+        },
+        {
+          "word": " being",
+          "start": 1015.3,
+          "end": 1015.3,
+          "probability": 0.000996920163743198
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "seek": 100178,
+      "start": 1015.3,
+      "end": 1015.3,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.699296569824219,
+      "compression_ratio": 1.300751879699248,
+      "no_speech_prob": 0.061890631914138794,
+      "words": []
+    },
+    {
+      "id": 83,
+      "seek": 100178,
+      "start": 1015.3,
+      "end": 1015.3,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.699296569824219,
+      "compression_ratio": 1.300751879699248,
+      "no_speech_prob": 0.061890631914138794,
+      "words": []
+    },
+    {
+      "id": 84,
+      "seek": 100178,
+      "start": 1015.3,
+      "end": 1015.3,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.699296569824219,
+      "compression_ratio": 1.300751879699248,
+      "no_speech_prob": 0.061890631914138794,
+      "words": []
+    },
+    {
+      "id": 85,
+      "seek": 100178,
+      "start": 1016.92,
+      "end": 1018.12,
+      "text": " Trud.",
+      "tokens": [
+        50891,
+        833,
+        463,
+        13,
+        51011
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.699296569824219,
+      "compression_ratio": 1.300751879699248,
+      "no_speech_prob": 0.061890631914138794,
+      "words": [
+        {
+          "word": " Trud.",
+          "start": 1016.92,
+          "end": 1018.12,
+          "probability": 0.5293072368949652
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "seek": 100178,
+      "start": 1022.14,
+      "end": 1022.26,
+      "text": " 14.",
+      "tokens": [
+        51011,
+        1478,
+        13,
+        51059
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.699296569824219,
+      "compression_ratio": 1.300751879699248,
+      "no_speech_prob": 0.061890631914138794,
+      "words": [
+        {
+          "word": " 14.",
+          "start": 1022.14,
+          "end": 1022.26,
+          "probability": 0.08677762001752853
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "seek": 100178,
+      "start": 1022.9,
+      "end": 1029.52,
+      "text": " Now the priority 2 top artist Innovation Act is",
+      "tokens": [
+        51059,
+        2735,
+        262,
+        8475,
+        362,
+        1353,
+        6802,
+        27724,
+        2191,
+        318,
+        51750
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.699296569824219,
+      "compression_ratio": 1.300751879699248,
+      "no_speech_prob": 0.061890631914138794,
+      "words": [
+        {
+          "word": " Now",
+          "start": 1022.9,
+          "end": 1023.1,
+          "probability": 0.002219331916421652
+        },
+        {
+          "word": " the",
+          "start": 1023.1,
+          "end": 1023.28,
+          "probability": 0.012780141085386276
+        },
+        {
+          "word": " priority",
+          "start": 1023.28,
+          "end": 1023.28,
+          "probability": 0.12736360728740692
+        },
+        {
+          "word": " 2",
+          "start": 1023.28,
+          "end": 1024.3,
+          "probability": 0.117775097489357
+        },
+        {
+          "word": " top",
+          "start": 1024.3,
+          "end": 1024.86,
+          "probability": 0.7499551177024841
+        },
+        {
+          "word": " artist",
+          "start": 1024.86,
+          "end": 1025.08,
+          "probability": 3.2348375498258974e-06
+        },
+        {
+          "word": " Innovation",
+          "start": 1025.08,
+          "end": 1025.38,
+          "probability": 3.189022754668258e-05
+        },
+        {
+          "word": " Act",
+          "start": 1025.38,
+          "end": 1025.38,
+          "probability": 0.0016201701946556568
+        },
+        {
+          "word": " is",
+          "start": 1025.38,
+          "end": 1029.52,
+          "probability": 0.06060430407524109
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "seek": 102952,
+      "start": 1029.52,
+      "end": 1059.08,
+      "text": " I now decided to wait for the",
+      "tokens": [
+        50363,
+        314,
+        783,
+        3066,
+        284,
+        4043,
+        329,
+        262,
+        51555
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.4690189361572266,
+      "compression_ratio": 0.7837837837837838,
+      "no_speech_prob": 0.15741018950939178,
+      "words": [
+        {
+          "word": " I",
+          "start": 1029.52,
+          "end": 1029.52,
+          "probability": 0.03171531856060028
+        },
+        {
+          "word": " now",
+          "start": 1029.52,
+          "end": 1029.52,
+          "probability": 0.0003172176657244563
+        },
+        {
+          "word": " decided",
+          "start": 1029.52,
+          "end": 1029.52,
+          "probability": 0.0005310787819325924
+        },
+        {
+          "word": " to",
+          "start": 1029.52,
+          "end": 1029.58,
+          "probability": 0.5790243148803711
+        },
+        {
+          "word": " wait",
+          "start": 1029.58,
+          "end": 1029.58,
+          "probability": 0.005936266388744116
+        },
+        {
+          "word": " for",
+          "start": 1029.58,
+          "end": 1058.82,
+          "probability": 0.23766028881072998
+        },
+        {
+          "word": " the",
+          "start": 1058.82,
+          "end": 1059.08,
+          "probability": 0.3229465186595917
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "seek": 105952,
+      "start": 1065.14,
+      "end": 1069.78,
+      "text": " Trud 18 priority one, bottom rear crack.",
+      "tokens": [
+        50363,
+        833,
+        463,
+        1248,
+        8475,
+        530,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        50880
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.6664831297738212,
+      "compression_ratio": 2.2564102564102564,
+      "no_speech_prob": 0.10578769445419312,
+      "words": [
+        {
+          "word": " Trud",
+          "start": 1065.14,
+          "end": 1065.98,
+          "probability": 0.30660015624016523
+        },
+        {
+          "word": " 18",
+          "start": 1065.98,
+          "end": 1066.82,
+          "probability": 0.7621756196022034
+        },
+        {
+          "word": " priority",
+          "start": 1066.82,
+          "end": 1067.72,
+          "probability": 0.5648213028907776
+        },
+        {
+          "word": " one,",
+          "start": 1067.72,
+          "end": 1068.26,
+          "probability": 0.6911741495132446
+        },
+        {
+          "word": " bottom",
+          "start": 1068.84,
+          "end": 1069.24,
+          "probability": 0.9449979662895203
+        },
+        {
+          "word": " rear",
+          "start": 1069.24,
+          "end": 1069.4,
+          "probability": 0.9917445778846741
+        },
+        {
+          "word": " crack.",
+          "start": 1069.4,
+          "end": 1069.78,
+          "probability": 0.9841611981391907
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "seek": 105952,
+      "start": 1070.5,
+      "end": 1072.84,
+      "text": " Tread 17 priority two, bottom rear crack.",
+      "tokens": [
+        50880,
+        309,
+        961,
+        1596,
+        8475,
+        734,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        51075
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.6664831297738212,
+      "compression_ratio": 2.2564102564102564,
+      "no_speech_prob": 0.10578769445419312,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1070.5,
+          "end": 1070.82,
+          "probability": 0.5712313950061798
+        },
+        {
+          "word": " 17",
+          "start": 1070.82,
+          "end": 1071.18,
+          "probability": 0.9661268591880798
+        },
+        {
+          "word": " priority",
+          "start": 1071.18,
+          "end": 1071.7,
+          "probability": 0.7009236216545105
+        },
+        {
+          "word": " two,",
+          "start": 1071.7,
+          "end": 1072.1,
+          "probability": 0.871302604675293
+        },
+        {
+          "word": " bottom",
+          "start": 1072.18,
+          "end": 1072.36,
+          "probability": 0.9934759736061096
+        },
+        {
+          "word": " rear",
+          "start": 1072.36,
+          "end": 1072.54,
+          "probability": 0.9903835654258728
+        },
+        {
+          "word": " crack.",
+          "start": 1072.54,
+          "end": 1072.84,
+          "probability": 0.9954419136047363
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "seek": 105952,
+      "start": 1073.42,
+      "end": 1078.14,
+      "text": " Tread 16 priority, two, bottom rear crack.",
+      "tokens": [
+        51075,
+        309,
+        961,
+        1467,
+        8475,
+        11,
+        734,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        51362
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.6664831297738212,
+      "compression_ratio": 2.2564102564102564,
+      "no_speech_prob": 0.10578769445419312,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1073.42,
+          "end": 1074.04,
+          "probability": 0.9314099550247192
+        },
+        {
+          "word": " 16",
+          "start": 1074.04,
+          "end": 1074.54,
+          "probability": 0.9871885180473328
+        },
+        {
+          "word": " priority,",
+          "start": 1074.54,
+          "end": 1075.46,
+          "probability": 0.8337933421134949
+        },
+        {
+          "word": " two,",
+          "start": 1075.96,
+          "end": 1077.08,
+          "probability": 0.9454342126846313
+        },
+        {
+          "word": " bottom",
+          "start": 1077.42,
+          "end": 1077.56,
+          "probability": 0.9942846894264221
+        },
+        {
+          "word": " rear",
+          "start": 1077.56,
+          "end": 1077.74,
+          "probability": 0.992570698261261
+        },
+        {
+          "word": " crack.",
+          "start": 1077.74,
+          "end": 1078.14,
+          "probability": 0.9972368478775024
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "seek": 105952,
+      "start": 1081.5600000000002,
+      "end": 1087.74,
+      "text": " Tread, 18 17, 15 priority, two, bottom rear crack.",
+      "tokens": [
+        51362,
+        309,
+        961,
+        11,
+        1248,
+        1596,
+        11,
+        1315,
+        8475,
+        11,
+        734,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        51796
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.6664831297738212,
+      "compression_ratio": 2.2564102564102564,
+      "no_speech_prob": 0.10578769445419312,
+      "words": [
+        {
+          "word": " Tread,",
+          "start": 1081.5600000000002,
+          "end": 1082.4,
+          "probability": 0.9322966933250427
+        },
+        {
+          "word": " 18",
+          "start": 1082.4,
+          "end": 1083.24,
+          "probability": 0.4230499267578125
+        },
+        {
+          "word": " 17,",
+          "start": 1083.24,
+          "end": 1083.52,
+          "probability": 0.24612075090408325
+        },
+        {
+          "word": " 15",
+          "start": 1083.96,
+          "end": 1084.34,
+          "probability": 0.6231800317764282
+        },
+        {
+          "word": " priority,",
+          "start": 1084.34,
+          "end": 1085.52,
+          "probability": 0.96864253282547
+        },
+        {
+          "word": " two,",
+          "start": 1086.04,
+          "end": 1086.9,
+          "probability": 0.992525577545166
+        },
+        {
+          "word": " bottom",
+          "start": 1087.14,
+          "end": 1087.22,
+          "probability": 0.9929874539375305
+        },
+        {
+          "word": " rear",
+          "start": 1087.22,
+          "end": 1087.44,
+          "probability": 0.9894440770149231
+        },
+        {
+          "word": " crack.",
+          "start": 1087.44,
+          "end": 1087.74,
+          "probability": 0.9967679977416992
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "seek": 108774,
+      "start": 1087.74,
+      "end": 1105.9,
+      "text": " tread 13 priority 1 bottom rear crack, tread 12 priority 3 bottom rear crack,",
+      "tokens": [
+        50363,
+        23153,
+        1511,
+        8475,
+        352,
+        4220,
+        8286,
+        8469,
+        11,
+        23153,
+        1105,
+        8475,
+        513,
+        4220,
+        8286,
+        8469,
+        11,
+        51273
+      ],
+      "temperature": 0.8,
+      "avg_logprob": -0.7202153205871582,
+      "compression_ratio": 1.4,
+      "no_speech_prob": 0.23705114424228668,
+      "words": [
+        {
+          "word": " tread",
+          "start": 1087.74,
+          "end": 1088.34,
+          "probability": 0.08825800567865372
+        },
+        {
+          "word": " 13",
+          "start": 1088.34,
+          "end": 1094.42,
+          "probability": 0.0583646222949028
+        },
+        {
+          "word": " priority",
+          "start": 1094.42,
+          "end": 1096.04,
+          "probability": 0.4953545928001404
+        },
+        {
+          "word": " 1",
+          "start": 1096.04,
+          "end": 1096.44,
+          "probability": 0.15681873261928558
+        },
+        {
+          "word": " bottom",
+          "start": 1096.44,
+          "end": 1096.74,
+          "probability": 0.9082567095756531
+        },
+        {
+          "word": " rear",
+          "start": 1096.74,
+          "end": 1096.9,
+          "probability": 0.978738009929657
+        },
+        {
+          "word": " crack,",
+          "start": 1096.9,
+          "end": 1097.26,
+          "probability": 0.9619377255439758
+        },
+        {
+          "word": " tread",
+          "start": 1097.68,
+          "end": 1099.74,
+          "probability": 0.9254058599472046
+        },
+        {
+          "word": " 12",
+          "start": 1099.74,
+          "end": 1102.34,
+          "probability": 0.9322015643119812
+        },
+        {
+          "word": " priority",
+          "start": 1102.34,
+          "end": 1103.08,
+          "probability": 0.985089898109436
+        },
+        {
+          "word": " 3",
+          "start": 1103.08,
+          "end": 1104.66,
+          "probability": 0.8820433616638184
+        },
+        {
+          "word": " bottom",
+          "start": 1104.66,
+          "end": 1105.24,
+          "probability": 0.982799232006073
+        },
+        {
+          "word": " rear",
+          "start": 1105.24,
+          "end": 1105.46,
+          "probability": 0.9917130470275879
+        },
+        {
+          "word": " crack,",
+          "start": 1105.46,
+          "end": 1105.9,
+          "probability": 0.9900966882705688
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "seek": 110590,
+      "start": 1105.9,
+      "end": 1108.44,
+      "text": " Try to 11, priority two, bottom rear crack.",
+      "tokens": [
+        50363,
+        9993,
+        284,
+        1367,
+        11,
+        8475,
+        734,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        50533
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4992471800910102,
+      "compression_ratio": 1.3974358974358974,
+      "no_speech_prob": 0.14708805084228516,
+      "words": [
+        {
+          "word": " Try",
+          "start": 1105.9,
+          "end": 1106.54,
+          "probability": 0.14893798530101776
+        },
+        {
+          "word": " to",
+          "start": 1106.54,
+          "end": 1106.66,
+          "probability": 0.514687180519104
+        },
+        {
+          "word": " 11,",
+          "start": 1106.66,
+          "end": 1106.88,
+          "probability": 0.34041061997413635
+        },
+        {
+          "word": " priority",
+          "start": 1107.06,
+          "end": 1107.26,
+          "probability": 0.9674623608589172
+        },
+        {
+          "word": " two,",
+          "start": 1107.26,
+          "end": 1107.78,
+          "probability": 0.6625996828079224
+        },
+        {
+          "word": " bottom",
+          "start": 1107.9,
+          "end": 1108.02,
+          "probability": 0.992243230342865
+        },
+        {
+          "word": " rear",
+          "start": 1108.02,
+          "end": 1108.18,
+          "probability": 0.96317058801651
+        },
+        {
+          "word": " crack.",
+          "start": 1108.18,
+          "end": 1108.44,
+          "probability": 0.9847102761268616
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "seek": 110590,
+      "start": 1109.02,
+      "end": 1114.8,
+      "text": " Try 10, priority two, bottom rear crack.",
+      "tokens": [
+        50533,
+        9993,
+        838,
+        11,
+        8475,
+        734,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        50783
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4992471800910102,
+      "compression_ratio": 1.3974358974358974,
+      "no_speech_prob": 0.14708805084228516,
+      "words": [
+        {
+          "word": " Try",
+          "start": 1109.02,
+          "end": 1109.4,
+          "probability": 0.8150924444198608
+        },
+        {
+          "word": " 10,",
+          "start": 1109.4,
+          "end": 1109.72,
+          "probability": 0.8163195848464966
+        },
+        {
+          "word": " priority",
+          "start": 1109.72,
+          "end": 1110.68,
+          "probability": 0.9988910555839539
+        },
+        {
+          "word": " two,",
+          "start": 1110.68,
+          "end": 1113.32,
+          "probability": 0.922536313533783
+        },
+        {
+          "word": " bottom",
+          "start": 1113.78,
+          "end": 1114.16,
+          "probability": 0.9982786178588867
+        },
+        {
+          "word": " rear",
+          "start": 1114.16,
+          "end": 1114.38,
+          "probability": 0.9956203103065491
+        },
+        {
+          "word": " crack.",
+          "start": 1114.38,
+          "end": 1114.8,
+          "probability": 0.9977697134017944
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "seek": 110590,
+      "start": 1126.6799999999998,
+      "end": 1129.26,
+      "text": " Out of partment two, 17.",
+      "tokens": [
+        51469,
+        3806,
+        286,
+        636,
+        434,
+        734,
+        11,
+        1596,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4992471800910102,
+      "compression_ratio": 1.3974358974358974,
+      "no_speech_prob": 0.14708805084228516,
+      "words": [
+        {
+          "word": " Out",
+          "start": 1126.6799999999998,
+          "end": 1127.3999999999999,
+          "probability": 0.3766798675060272
+        },
+        {
+          "word": " of",
+          "start": 1127.3999999999999,
+          "end": 1128.12,
+          "probability": 0.714888870716095
+        },
+        {
+          "word": " partment",
+          "start": 1128.12,
+          "end": 1128.46,
+          "probability": 0.4025181233882904
+        },
+        {
+          "word": " two,",
+          "start": 1128.46,
+          "end": 1128.76,
+          "probability": 0.42957842350006104
+        },
+        {
+          "word": " 17.",
+          "start": 1128.78,
+          "end": 1129.26,
+          "probability": 0.9830043315887451
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "seek": 113590,
+      "start": 1135.9,
+      "end": 1138.72,
+      "text": " Try 11 priority one top rear crack.",
+      "tokens": [
+        50363,
+        9993,
+        1367,
+        8475,
+        530,
+        1353,
+        8286,
+        8469,
+        13,
+        50538
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6619107906634991,
+      "compression_ratio": 1.359375,
+      "no_speech_prob": 0.01748887449502945,
+      "words": [
+        {
+          "word": " Try",
+          "start": 1135.9,
+          "end": 1136.1,
+          "probability": 0.42956846952438354
+        },
+        {
+          "word": " 11",
+          "start": 1136.1,
+          "end": 1136.34,
+          "probability": 0.4224465489387512
+        },
+        {
+          "word": " priority",
+          "start": 1136.34,
+          "end": 1136.86,
+          "probability": 0.51181560754776
+        },
+        {
+          "word": " one",
+          "start": 1136.86,
+          "end": 1137.56,
+          "probability": 0.7325906753540039
+        },
+        {
+          "word": " top",
+          "start": 1137.56,
+          "end": 1138.0,
+          "probability": 0.6086267828941345
+        },
+        {
+          "word": " rear",
+          "start": 1138.0,
+          "end": 1138.32,
+          "probability": 0.973967432975769
+        },
+        {
+          "word": " crack.",
+          "start": 1138.32,
+          "end": 1138.72,
+          "probability": 0.9749733209609985
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "seek": 113590,
+      "start": 1139.48,
+      "end": 1143.56,
+      "text": " Try 10 priority one top rear crack.",
+      "tokens": [
+        50538,
+        9993,
+        838,
+        8475,
+        530,
+        1353,
+        8286,
+        8469,
+        13,
+        50863
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6619107906634991,
+      "compression_ratio": 1.359375,
+      "no_speech_prob": 0.01748887449502945,
+      "words": [
+        {
+          "word": " Try",
+          "start": 1139.48,
+          "end": 1139.88,
+          "probability": 0.5954886674880981
+        },
+        {
+          "word": " 10",
+          "start": 1139.88,
+          "end": 1140.66,
+          "probability": 0.9108142852783203
+        },
+        {
+          "word": " priority",
+          "start": 1140.66,
+          "end": 1141.3,
+          "probability": 0.9875286817550659
+        },
+        {
+          "word": " one",
+          "start": 1141.3,
+          "end": 1141.86,
+          "probability": 0.9565668106079102
+        },
+        {
+          "word": " top",
+          "start": 1141.86,
+          "end": 1142.76,
+          "probability": 0.848910391330719
+        },
+        {
+          "word": " rear",
+          "start": 1142.76,
+          "end": 1143.08,
+          "probability": 0.9890089631080627
+        },
+        {
+          "word": " crack.",
+          "start": 1143.08,
+          "end": 1143.56,
+          "probability": 0.9956821203231812
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "seek": 113590,
+      "start": 1145.14,
+      "end": 1147.18,
+      "text": " The screenshot.",
+      "tokens": [
+        50863,
+        383,
+        22032,
+        13,
+        51013
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6619107906634991,
+      "compression_ratio": 1.359375,
+      "no_speech_prob": 0.01748887449502945,
+      "words": [
+        {
+          "word": " The",
+          "start": 1145.14,
+          "end": 1145.36,
+          "probability": 0.24826131761074066
+        },
+        {
+          "word": " screenshot.",
+          "start": 1145.36,
+          "end": 1147.18,
+          "probability": 0.8611906170845032
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "seek": 116590,
+      "start": 1171.7,
+      "end": 1176.86,
+      "text": " Tread number 11 priority one, bottom rear crack screenshot.",
+      "tokens": [
+        50363,
+        309,
+        961,
+        1271,
+        1367,
+        8475,
+        530,
+        11,
+        4220,
+        8286,
+        8469,
+        22032,
+        13,
+        50959
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5401735305786133,
+      "compression_ratio": 1.6904761904761905,
+      "no_speech_prob": 0.09443153440952301,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1171.7,
+          "end": 1172.54,
+          "probability": 0.5868190675973892
+        },
+        {
+          "word": " number",
+          "start": 1172.54,
+          "end": 1172.76,
+          "probability": 0.9555841684341431
+        },
+        {
+          "word": " 11",
+          "start": 1172.76,
+          "end": 1173.18,
+          "probability": 0.9511070251464844
+        },
+        {
+          "word": " priority",
+          "start": 1173.18,
+          "end": 1173.54,
+          "probability": 0.5769618153572083
+        },
+        {
+          "word": " one,",
+          "start": 1173.54,
+          "end": 1174.18,
+          "probability": 0.8026138544082642
+        },
+        {
+          "word": " bottom",
+          "start": 1174.72,
+          "end": 1175.16,
+          "probability": 0.9631249904632568
+        },
+        {
+          "word": " rear",
+          "start": 1175.16,
+          "end": 1175.4,
+          "probability": 0.9633971452713013
+        },
+        {
+          "word": " crack",
+          "start": 1175.4,
+          "end": 1175.86,
+          "probability": 0.9834839701652527
+        },
+        {
+          "word": " screenshot.",
+          "start": 1175.86,
+          "end": 1176.86,
+          "probability": 0.3073956072330475
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "seek": 116590,
+      "start": 1177.86,
+      "end": 1180.56,
+      "text": " Tread 10 priority one, bottom rear crack.",
+      "tokens": [
+        50959,
+        309,
+        961,
+        838,
+        8475,
+        530,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        51203
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5401735305786133,
+      "compression_ratio": 1.6904761904761905,
+      "no_speech_prob": 0.09443153440952301,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1177.86,
+          "end": 1178.22,
+          "probability": 0.9889049232006073
+        },
+        {
+          "word": " 10",
+          "start": 1178.22,
+          "end": 1178.58,
+          "probability": 0.9210231304168701
+        },
+        {
+          "word": " priority",
+          "start": 1178.58,
+          "end": 1179.02,
+          "probability": 0.8164336681365967
+        },
+        {
+          "word": " one,",
+          "start": 1179.02,
+          "end": 1179.54,
+          "probability": 0.981137752532959
+        },
+        {
+          "word": " bottom",
+          "start": 1179.64,
+          "end": 1179.92,
+          "probability": 0.9983991980552673
+        },
+        {
+          "word": " rear",
+          "start": 1179.92,
+          "end": 1180.14,
+          "probability": 0.9978569149971008
+        },
+        {
+          "word": " crack.",
+          "start": 1180.14,
+          "end": 1180.56,
+          "probability": 0.9984263181686401
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "seek": 116590,
+      "start": 1185.8200000000002,
+      "end": 1189.8,
+      "text": " Tread 9 priority two, bottom rear crack.",
+      "tokens": [
+        51203,
+        309,
+        961,
+        860,
+        8475,
+        734,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        51639
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5401735305786133,
+      "compression_ratio": 1.6904761904761905,
+      "no_speech_prob": 0.09443153440952301,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1185.8200000000002,
+          "end": 1186.66,
+          "probability": 0.9939492344856262
+        },
+        {
+          "word": " 9",
+          "start": 1186.66,
+          "end": 1186.98,
+          "probability": 0.20695465803146362
+        },
+        {
+          "word": " priority",
+          "start": 1186.98,
+          "end": 1187.68,
+          "probability": 0.9577130079269409
+        },
+        {
+          "word": " two,",
+          "start": 1187.68,
+          "end": 1188.68,
+          "probability": 0.6752827167510986
+        },
+        {
+          "word": " bottom",
+          "start": 1189.06,
+          "end": 1189.14,
+          "probability": 0.9974879026412964
+        },
+        {
+          "word": " rear",
+          "start": 1189.14,
+          "end": 1189.4,
+          "probability": 0.9963201284408569
+        },
+        {
+          "word": " crack.",
+          "start": 1189.4,
+          "end": 1189.8,
+          "probability": 0.9979183077812195
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "seek": 118980,
+      "start": 1189.8,
+      "end": 1209.38,
+      "text": " Track, tread 7, priority 2, bottom rear crack, stringer priority 1 for refurbish, screenshot.",
+      "tokens": [
+        50363,
+        17762,
+        11,
+        23153,
+        767,
+        11,
+        8475,
+        362,
+        11,
+        4220,
+        8286,
+        8469,
+        11,
+        965,
+        3889,
+        8475,
+        352,
+        329,
+        37969,
+        680,
+        11,
+        22032,
+        13,
+        51363
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5458162307739258,
+      "compression_ratio": 1.1204819277108433,
+      "no_speech_prob": 0.15752068161964417,
+      "words": [
+        {
+          "word": " Track,",
+          "start": 1189.8,
+          "end": 1190.0,
+          "probability": 0.09539496898651123
+        },
+        {
+          "word": " tread",
+          "start": 1190.28,
+          "end": 1191.94,
+          "probability": 0.7313838601112366
+        },
+        {
+          "word": " 7,",
+          "start": 1191.94,
+          "end": 1194.14,
+          "probability": 0.4240793287754059
+        },
+        {
+          "word": " priority",
+          "start": 1194.44,
+          "end": 1194.92,
+          "probability": 0.94181227684021
+        },
+        {
+          "word": " 2,",
+          "start": 1194.92,
+          "end": 1195.6,
+          "probability": 0.9234051704406738
+        },
+        {
+          "word": " bottom",
+          "start": 1196.08,
+          "end": 1196.34,
+          "probability": 0.9564291834831238
+        },
+        {
+          "word": " rear",
+          "start": 1196.34,
+          "end": 1197.2,
+          "probability": 0.9830687046051025
+        },
+        {
+          "word": " crack,",
+          "start": 1197.2,
+          "end": 1197.6,
+          "probability": 0.929402232170105
+        },
+        {
+          "word": " stringer",
+          "start": 1198.4,
+          "end": 1206.0,
+          "probability": 0.7804737389087677
+        },
+        {
+          "word": " priority",
+          "start": 1206.0,
+          "end": 1206.32,
+          "probability": 0.9030833840370178
+        },
+        {
+          "word": " 1",
+          "start": 1206.32,
+          "end": 1206.94,
+          "probability": 0.9300981163978577
+        },
+        {
+          "word": " for",
+          "start": 1206.94,
+          "end": 1207.42,
+          "probability": 0.8209287524223328
+        },
+        {
+          "word": " refurbish,",
+          "start": 1207.42,
+          "end": 1208.26,
+          "probability": 0.9684622585773468
+        },
+        {
+          "word": " screenshot.",
+          "start": 1208.6,
+          "end": 1209.38,
+          "probability": 0.7554973363876343
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "seek": 124980,
+      "start": 1249.8,
+      "end": 1249.96,
+      "text": " Huh.",
+      "tokens": [
+        50363,
+        45412,
+        13,
+        51446
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.109408060709636,
+      "compression_ratio": 0.3333333333333333,
+      "no_speech_prob": 0.13704714179039001,
+      "words": [
+        {
+          "word": " Huh.",
+          "start": 1249.8,
+          "end": 1249.96,
+          "probability": 6.7221510107629e-05
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "seek": 124996,
+      "start": 1249.96,
+      "end": 1249.96,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -2.083404223124186,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.12655438482761383,
+      "words": []
+    },
+    {
+      "id": 106,
+      "seek": 124996,
+      "start": 1249.96,
+      "end": 1249.96,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -2.083404223124186,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 0.12655438482761383,
+      "words": []
+    },
+    {
+      "id": 107,
+      "seek": 127426,
+      "start": 1274.26,
+      "end": 1278.46,
+      "text": " It's 17, priority one, bottom rear crack, screenshot.",
+      "tokens": [
+        50363,
+        632,
+        338,
+        1596,
+        11,
+        8475,
+        530,
+        11,
+        4220,
+        8286,
+        8469,
+        11,
+        22032,
+        13,
+        50613
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1288840430123466,
+      "compression_ratio": 2.5714285714285716,
+      "no_speech_prob": 0.14443647861480713,
+      "words": [
+        {
+          "word": " It's",
+          "start": 1274.26,
+          "end": 1274.38,
+          "probability": 0.48247132543474436
+        },
+        {
+          "word": " 17,",
+          "start": 1274.38,
+          "end": 1274.6,
+          "probability": 0.12584421038627625
+        },
+        {
+          "word": " priority",
+          "start": 1275.78,
+          "end": 1276.1,
+          "probability": 0.7785343527793884
+        },
+        {
+          "word": " one,",
+          "start": 1276.1,
+          "end": 1276.6,
+          "probability": 0.8643344640731812
+        },
+        {
+          "word": " bottom",
+          "start": 1276.9,
+          "end": 1277.26,
+          "probability": 0.9891719222068787
+        },
+        {
+          "word": " rear",
+          "start": 1277.26,
+          "end": 1277.5,
+          "probability": 0.9856679439544678
+        },
+        {
+          "word": " crack,",
+          "start": 1277.5,
+          "end": 1277.84,
+          "probability": 0.9786891341209412
+        },
+        {
+          "word": " screenshot.",
+          "start": 1278.18,
+          "end": 1278.46,
+          "probability": 0.5533788204193115
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "seek": 127426,
+      "start": 1279.84,
+      "end": 1282.92,
+      "text": " Tread 15, priority one, bottom rear crack.",
+      "tokens": [
+        50652,
+        309,
+        961,
+        1315,
+        11,
+        8475,
+        530,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        50817
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1288840430123466,
+      "compression_ratio": 2.5714285714285716,
+      "no_speech_prob": 0.14443647861480713,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1279.84,
+          "end": 1280.14,
+          "probability": 0.8723006546497345
+        },
+        {
+          "word": " 15,",
+          "start": 1280.14,
+          "end": 1280.58,
+          "probability": 0.9856794476509094
+        },
+        {
+          "word": " priority",
+          "start": 1281.06,
+          "end": 1281.36,
+          "probability": 0.99769526720047
+        },
+        {
+          "word": " one,",
+          "start": 1281.36,
+          "end": 1281.82,
+          "probability": 0.9972600936889648
+        },
+        {
+          "word": " bottom",
+          "start": 1282.12,
+          "end": 1282.4,
+          "probability": 0.9982120990753174
+        },
+        {
+          "word": " rear",
+          "start": 1282.4,
+          "end": 1282.6,
+          "probability": 0.9979439377784729
+        },
+        {
+          "word": " crack.",
+          "start": 1282.6,
+          "end": 1282.92,
+          "probability": 0.9985119700431824
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "seek": 127426,
+      "start": 1283.46,
+      "end": 1285.78,
+      "text": " Tread 14, priority one, bottom rear crack.",
+      "tokens": [
+        50817,
+        309,
+        961,
+        1478,
+        11,
+        8475,
+        530,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        50959
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1288840430123466,
+      "compression_ratio": 2.5714285714285716,
+      "no_speech_prob": 0.14443647861480713,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1283.46,
+          "end": 1283.74,
+          "probability": 0.9959502220153809
+        },
+        {
+          "word": " 14,",
+          "start": 1283.74,
+          "end": 1283.98,
+          "probability": 0.9977828860282898
+        },
+        {
+          "word": " priority",
+          "start": 1283.98,
+          "end": 1284.54,
+          "probability": 0.9989067316055298
+        },
+        {
+          "word": " one,",
+          "start": 1284.54,
+          "end": 1284.96,
+          "probability": 0.9985671043395996
+        },
+        {
+          "word": " bottom",
+          "start": 1285.02,
+          "end": 1285.24,
+          "probability": 0.9989510774612427
+        },
+        {
+          "word": " rear",
+          "start": 1285.24,
+          "end": 1285.44,
+          "probability": 0.996542751789093
+        },
+        {
+          "word": " crack.",
+          "start": 1285.44,
+          "end": 1285.78,
+          "probability": 0.9989227652549744
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "seek": 127426,
+      "start": 1286.14,
+      "end": 1288.4,
+      "text": " Tread 13, priority one, bottom rear crack.",
+      "tokens": [
+        50959,
+        309,
+        961,
+        1511,
+        11,
+        8475,
+        530,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        51108
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1288840430123466,
+      "compression_ratio": 2.5714285714285716,
+      "no_speech_prob": 0.14443647861480713,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1286.14,
+          "end": 1286.28,
+          "probability": 0.9976362884044647
+        },
+        {
+          "word": " 13,",
+          "start": 1286.28,
+          "end": 1286.58,
+          "probability": 0.996408998966217
+        },
+        {
+          "word": " priority",
+          "start": 1286.58,
+          "end": 1287.24,
+          "probability": 0.9996587038040161
+        },
+        {
+          "word": " one,",
+          "start": 1287.24,
+          "end": 1287.62,
+          "probability": 0.9990177154541016
+        },
+        {
+          "word": " bottom",
+          "start": 1287.62,
+          "end": 1287.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " rear",
+          "start": 1287.94,
+          "end": 1288.1,
+          "probability": 0.9961044788360596
+        },
+        {
+          "word": " crack.",
+          "start": 1288.1,
+          "end": 1288.4,
+          "probability": 0.9989932179450989
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "seek": 127426,
+      "start": 1288.88,
+      "end": 1291.36,
+      "text": " Tread 12, priority one, bottom rear crack.",
+      "tokens": [
+        51108,
+        309,
+        961,
+        1105,
+        11,
+        8475,
+        530,
+        11,
+        4220,
+        8286,
+        8469,
+        13,
+        51222
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1288840430123466,
+      "compression_ratio": 2.5714285714285716,
+      "no_speech_prob": 0.14443647861480713,
+      "words": [
+        {
+          "word": " Tread",
+          "start": 1288.88,
+          "end": 1289.3,
+          "probability": 0.9969555139541626
+        },
+        {
+          "word": " 12,",
+          "start": 1289.3,
+          "end": 1289.66,
+          "probability": 0.9979215264320374
+        },
+        {
+          "word": " priority",
+          "start": 1289.96,
+          "end": 1290.32,
+          "probability": 0.9989001750946045
+        },
+        {
+          "word": " one,",
+          "start": 1290.32,
+          "end": 1290.72,
+          "probability": 0.9987756609916687
+        },
+        {
+          "word": " bottom",
+          "start": 1290.96,
+          "end": 1291.2,
+          "probability": 0.9950931072235107
+        },
+        {
+          "word": " rear",
+          "start": 1291.2,
+          "end": 1291.36,
+          "probability": 0.9509469270706177
+        },
+        {
+          "word": " crack.",
+          "start": 1291.36,
+          "end": 1291.36,
+          "probability": 0.7801650166511536
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "seek": 127426,
+      "start": 1291.36,
+      "end": 1291.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1288840430123466,
+      "compression_ratio": 2.5714285714285716,
+      "no_speech_prob": 0.14443647861480713,
+      "words": []
+    },
+    {
+      "id": 113,
+      "seek": 127426,
+      "start": 1291.36,
+      "end": 1291.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1288840430123466,
+      "compression_ratio": 2.5714285714285716,
+      "no_speech_prob": 0.14443647861480713,
+      "words": []
+    },
+    {
+      "id": 114,
+      "seek": 127426,
+      "start": 1291.36,
+      "end": 1291.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1288840430123466,
+      "compression_ratio": 2.5714285714285716,
+      "no_speech_prob": 0.14443647861480713,
+      "words": []
+    }
+  ],
+  "language": "en"
+}
