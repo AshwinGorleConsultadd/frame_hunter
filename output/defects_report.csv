@@ -1,0 +1,35 @@
+defect_number,building_counter,building_name,apartment_number,tread_number,priority,description,timestamp,screenshot_path,transcript_segment
+1,building4,,218,11,1,top front crack,21.91,output/screenshots/defect_001_21.91s.jpg,Try number 11 priority one top front crack.
+2,building4,,218,10,1,top rear crack,30.919999999999998,output/screenshots/defect_002_30.92s.jpg,"Track, tread number 10, priority one, top rear crack, screenshot."
+3,building4,,218,18,1,bottom rear crack,56.54,output/screenshots/defect_003_56.54s.jpg,tread number 18 priority one bottom rear crack tread number 17 priority one bottom rear
+4,building4,,218,16,1,rear crack,64.38,output/screenshots/defect_004_64.38s.jpg,"rear crack, tread number 16 priority one bottom rear crack, tread number 15 priority one,"
+5,building4,,218,14,1,bottom rear crack,71.32,output/screenshots/defect_005_71.32s.jpg,"bottom rear crack, screenshot, tread number 14 priority one, bottom rear crack, tread"
+6,building4,,218,13,1,bottom rear crack,83.94,output/screenshots/defect_006_83.94s.jpg,tread number 13 priority one bottom rear crack screenshot tread number 12 priority
+7,building4,,218,11,1,bottom rear crack,95.86,output/screenshots/defect_007_95.86s.jpg,one bottom rear crack tread number 11 priority one bottom rear crack tread
+8,building4,,218,,,rear crack,131.75,output/screenshots/defect_008_131.75s.jpg,tread number nine priority to top front and rear cracks.
+9,building4,,218,18,,,213.11,output/screenshots/defect_009_213.11s.jpg,Tread number 18.
+10,building4,,218,17,,,218.60000000000002,output/screenshots/defect_010_218.60s.jpg,Tread number 17.
+11,building4,,218,16,,,221.57,output/screenshots/defect_011_221.57s.jpg,Tread number 16.
+12,building4,,218,15,,,224.67000000000002,output/screenshots/defect_012_224.67s.jpg,Tread number 15.
+13,building4,,218,,1,bottom rear crack,237.03,output/screenshots/defect_013_237.03s.jpg,Tread number nine priority one bottom rear crack. Tread number eight priority one bottom rear crack.
+14,building4,,218,,2,rear crack,248.07,output/screenshots/defect_014_248.07s.jpg,Tread number one priority two rear cracks.
+15,building4,,218,,1,top rear crack,270.81,output/screenshots/defect_015_270.81s.jpg,Tread number eight priority one top rear crack
+16,building4,,218,9,2,top rear crack,281.98,output/screenshots/defect_016_281.98s.jpg,Track number 9 priority 2 top rear crack.
+17,building4,,218,18,1,top rear crack,297.09000000000003,output/screenshots/defect_017_297.09s.jpg,Track number 18 priority 1 top rear crack.
+18,building4,,218,18,2,bottom rear crack,306.49,output/screenshots/defect_018_306.49s.jpg,"Now department 126, tread 18, priority 2, bottom rear crack, tread 17, priority 2, bottom rear crack."
+19,building4,,218,9,1,bottom rear crack,319.78,output/screenshots/defect_019_319.78s.jpg,"Tread 9, priority 1, bottom rear crack."
+20,building4,,218,,1,bottom rear crack,325.75,output/screenshots/defect_020_325.75s.jpg,"I'm going to try to 8 priority 1 bottom rear crack, screenshot."
+21,building4,,218,,1,bottom rear crack,349.70000000000005,output/screenshots/defect_021_349.70s.jpg,Try number two priority one bottom rear crack.
+22,building4,,218,16,1,rear crack,406.82,output/screenshots/defect_022_406.82s.jpg,"apartment 137, building one, tread 16, priority one, top front and rear cracks, screenshot."
+23,building4,,218,,2,rear crack,428.62,output/screenshots/defect_023_428.62s.jpg,Tread number eight priority two top front and rear cracks.
+24,building4,,218,,2,rear crack,435.7,output/screenshots/defect_024_435.70s.jpg,Tread five priority two top front and rear cracks. Tread four priority two top front and rear cracks.
+25,building4,,218,16,1,bottom rear crack,448.32,output/screenshots/defect_025_448.32s.jpg,tread 16 priority one bottom rear crack
+26,building4,,218,,2,bottom rear crack,463.15,output/screenshots/defect_026_463.15s.jpg,tread number eight priority two bottom rear crack tread number seven priority
+27,building4,,218,,1,rear crack,513.01,output/screenshots/defect_027_513.01s.jpg,"Tread number seven, priority one, bottom front and rear cracks."
+28,building4,,218,,2,front rear crack,539.79,output/screenshots/defect_028_539.79s.jpg,Try number one priority two top front rear cracks.
+29,building4,,218,,1,top rear crack,550.04,output/screenshots/defect_029_550.04s.jpg,screen shot tried number three priority one top rear crack tried
+30,building4,,218,,1,top front crack,557.28,output/screenshots/defect_030_557.28s.jpg,number four priority one top front crack trite number five priority one top
+31,building4,,218,,1,front rear crack,564.13,output/screenshots/defect_031_564.13s.jpg,front rear crack screenshot tried number six priority one top front crack
+32,building4,,218,,1,front rear crack,570.3199999999999,output/screenshots/defect_032_570.32s.jpg,tried number seven priority one top front rear crackons screen shot
+33,building4,,218,,1,top front crack,575.56,output/screenshots/defect_033_575.56s.jpg,I got tread number nine priority one top front crack.
+34,building4,,218,,2,,661.01,output/screenshots/defect_034_661.01s.jpg,Stringer priority 2 for refurbish.
