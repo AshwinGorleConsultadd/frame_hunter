@@ -11,6 +11,9 @@ import logging
 import re
 from typing import List, Optional, Dict, Any
 
+from langchain_core.language_models import llms
+from transcript_refiner import refine_transcript_chunks_symmentically
+
 # Audio processing imports
 import whisper
 import ffmpeg
@@ -28,6 +31,7 @@ try:
 except ImportError:
     boto3 = None
     ClientError = Exception
+
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -255,7 +259,7 @@ class VideoProcessor:
         Returns:
             List of DefectInfo objects
         """
-        if not self.llm:
+        if  self.llm:
             logger.warning("LLM not initialized, falling back to rule-based extraction")
             return self.extract_defects_rule_based(transcript_result)
         
@@ -511,9 +515,9 @@ class VideoProcessor:
             logger.error("Failed to save transcript text file: %s", e)
             raise
     
-    def create_refined_transcript_chunks(self, transcript_result: Dict[str, Any]) -> List[RefinedTranscriptChunk]:
+    def create_formated_transcript_chunks(self, transcript_result: Dict[str, Any]) -> List[RefinedTranscriptChunk]:
         """
-        Create refined transcript chunks using LLM with chunked processing for better accuracy
+        Create refined transcript chunks using simple chunking
         
         Args:
             transcript_result: Whisper transcription result
@@ -521,380 +525,54 @@ class VideoProcessor:
         Returns:
             List of RefinedTranscriptChunk objects
         """
-        if not self.llm:
-            logger.warning("LLM not initialized, using simple chunking")
-            return self._create_simple_chunks(transcript_result)
-        
-        try:
-            # Get all segments
-            segments = transcript_result.get('segments', [])
-            all_refined_chunks = []
-            
-            # Process transcript in smaller chunks for better accuracy
-            chunk_size = 10  # Process 10 segments at a time
-            overlap_size = 2  # 2 segments overlap between chunks
-            
-            for i in range(0, len(segments), chunk_size - overlap_size):
-                chunk_end = min(i + chunk_size, len(segments))
-                chunk_segments = segments[i:chunk_end]
-                
-                # Process this chunk
-                chunk_refined = self._process_refinement_chunk(chunk_segments, i)
-                all_refined_chunks.extend(chunk_refined)
-                
-                logger.info("Processed refinement chunk %d/%d: %d segments -> %d refined chunks", 
-                           i // (chunk_size - overlap_size) + 1, 
-                           (len(segments) + chunk_size - overlap_size - 1) // (chunk_size - overlap_size),
-                           len(chunk_segments), len(chunk_refined))
-            
-            # Remove duplicates from overlapping regions
-            final_chunks = self._merge_overlapping_chunks(all_refined_chunks)
-            
-            logger.info("Created %d refined transcript chunks from %d original segments", 
-                       len(final_chunks), len(segments))
-            return final_chunks
-            
-        except Exception as e:
-            logger.error("LLM transcript refinement failed: %s", e)
-            logger.info("Falling back to simple chunking")
-            return self._create_simple_chunks(transcript_result)
+        logger.info("Using simple chunking for transcript refinement")
+        return self._create_simple_chunks(transcript_result)
     
-    def _process_refinement_chunk(self, chunk_segments: List[Dict[str, Any]], chunk_index: int) -> List[RefinedTranscriptChunk]:
-        """Process a chunk of segments for refinement"""
-        try:
-            # Format chunk segments as text
-            segments_text = []
-            for segment in chunk_segments:
-                start_time = segment.get('start', 0)
-                end_time = segment.get('end', 0)
-                text = segment.get('text', '').strip()
-                
-                if text:
-                    segments_text.append(f"[{start_time:.2f}s - {end_time:.2f}s] {text}")
-            
-            transcript_segments = "\n".join(segments_text)
-            
-            # Create LLM prompt for transcript refinement
-            prompt = self._create_refinement_prompt()
-            
-            formatted_prompt = prompt.format(transcript_segments=transcript_segments)
-            response = self.llm(formatted_prompt)
-            
-            # Save LLM output to file for debugging
-            self._save_llm_output(response, chunk_index)
-            
-            # Parse the response manually since List[RefinedTranscriptChunk] is not a valid Pydantic model
-            refined_chunks = self._parse_refinement_response(response)
-            
-            return refined_chunks
-            
-        except Exception as e:
-            logger.error("Failed to process refinement chunk %d: %s", chunk_index // 15 + 1, e)
-            return []
     
-    def _parse_refinement_response(self, response: str) -> List[RefinedTranscriptChunk]:
-        """Parse LLM response manually to extract RefinedTranscriptChunk objects"""
-        try:
-            import json
-            import re
-            
-            logger.info(f"Parsing LLM response: {response[:200]}...")
-            
-            # Try to extract JSON from the response
-            json_match = re.search(r'\[.*\]', response, re.DOTALL)
-            if json_match:
-                json_str = json_match.group(0)
-                logger.info(f"Found JSON: {json_str[:200]}...")
-                
-                try:
-                    data = json.loads(json_str)
-                    logger.info(f"Parsed JSON data: {len(data)} items")
-                    
-                    chunks = []
-                    for i, item in enumerate(data):
-                        if isinstance(item, dict) and 'description' in item and 'start_time' in item and 'end_time' in item:
-                            chunk = RefinedTranscriptChunk(
-                                description=item['description'],
-                                start_time=float(item['start_time']),
-                                end_time=float(item['end_time'])
-                            )
-                            chunks.append(chunk)
-                            logger.info(f"Chunk {i+1}: {item['description'][:50]}... ({item['start_time']}-{item['end_time']})")
-                    
-                    logger.info(f"Successfully parsed {len(chunks)} chunks from JSON")
-                    return chunks
-                    
-                except json.JSONDecodeError as e:
-                    logger.error(f"JSON decode error: {e}")
-                    logger.error(f"Malformed JSON: {json_str}")
-                    # Try to fix common JSON issues
-                    return self._fix_and_parse_json(json_str)
-            
-            # Fallback: try to parse as simple text
-            logger.info("JSON parsing failed, trying simple text parsing")
-            return self._parse_simple_refinement_response(response)
-            
-        except Exception as e:
-            logger.error("Failed to parse refinement response: %s", e)
-            logger.error(f"Response was: {response}")
-            return []
-    
-    def _fix_and_parse_json(self, json_str: str) -> List[RefinedTranscriptChunk]:
-        """Try to fix common JSON issues and parse"""
-        try:
-            import json
-            import re
-            
-            logger.info("Attempting to fix malformed JSON")
-            
-            # Common fixes for malformed JSON
-            fixed_json = json_str
-            
-            # Fix missing array brackets
-            if not fixed_json.strip().startswith('['):
-                fixed_json = '[' + fixed_json
-            if not fixed_json.strip().endswith(']'):
-                fixed_json = fixed_json + ']'
-            
-            # Fix missing object brackets
-            # Look for patterns like "description": "text", "start_time": 1.0, "end_time": 2.0
-            pattern = r'"description":\s*"[^"]*",\s*"start_time":\s*[0-9.]+,\s*"end_time":\s*[0-9.]+'
-            matches = re.findall(pattern, fixed_json)
-            
-            if matches:
-                # Reconstruct proper JSON
-                objects = []
-                for match in matches:
-                    # Extract values
-                    desc_match = re.search(r'"description":\s*"([^"]*)"', match)
-                    start_match = re.search(r'"start_time":\s*([0-9.]+)', match)
-                    end_match = re.search(r'"end_time":\s*([0-9.]+)', match)
-                    
-                    if desc_match and start_match and end_match:
-                        obj = {
-                            "description": desc_match.group(1),
-                            "start_time": float(start_match.group(1)),
-                            "end_time": float(end_match.group(1))
-                        }
-                        objects.append(obj)
-                
-                if objects:
-                    logger.info(f"Fixed JSON and extracted {len(objects)} objects")
-                    chunks = []
-                    for obj in objects:
-                        chunk = RefinedTranscriptChunk(
-                            description=obj['description'],
-                            start_time=obj['start_time'],
-                            end_time=obj['end_time']
-                        )
-                        chunks.append(chunk)
-                    return chunks
-            
-            # Try to parse the fixed JSON
-            data = json.loads(fixed_json)
-            chunks = []
-            for item in data:
-                if isinstance(item, dict) and 'description' in item and 'start_time' in item and 'end_time' in item:
-                    chunk = RefinedTranscriptChunk(
-                        description=item['description'],
-                        start_time=float(item['start_time']),
-                        end_time=float(item['end_time'])
-                    )
-                    chunks.append(chunk)
-            
-            logger.info(f"Successfully fixed and parsed {len(chunks)} chunks")
-            return chunks
-            
-        except Exception as e:
-            logger.error(f"Failed to fix JSON: {e}")
-            return []
-    
-    def _parse_simple_refinement_response(self, response: str) -> List[RefinedTranscriptChunk]:
-        """Fallback parsing for simple text responses"""
-        chunks = []
-        lines = response.strip().split('\n')
-        
-        for line in lines:
-            line = line.strip()
-            if line and ('[' in line and ']' in line):
-                # Extract timestamp and description
-                timestamp_match = re.search(r'\[([0-9.]+)s - ([0-9.]+)s\]', line)
-                if timestamp_match:
-                    start_time = float(timestamp_match.group(1))
-                    end_time = float(timestamp_match.group(2))
-                    description = line[timestamp_match.end():].strip()
-                    
-                    if description:
-                        chunk = RefinedTranscriptChunk(
-                            description=description,
-                            start_time=start_time,
-                            end_time=end_time
-                        )
-                        chunks.append(chunk)
-        
-        return chunks
-    
-    def _save_llm_output(self, response: str, chunk_index: int):
-        """Save LLM output to file for debugging"""
-        try:
-            output_dir = Path("output")
-            output_dir.mkdir(exist_ok=True)
-            
-            llm_output_file = output_dir / "llm_output.txt"
-            
-            with open(llm_output_file, 'a', encoding='utf-8') as f:
-                f.write(f"\n{'='*80}\n")
-                f.write(f"CHUNK {chunk_index} - LLM OUTPUT\n")
-                f.write(f"{'='*80}\n")
-                f.write(response)
-                f.write(f"\n{'='*80}\n")
-            
-            logger.info(f"Saved LLM output for chunk {chunk_index} to llm_output.txt")
-            
-        except Exception as e:
-            logger.error(f"Failed to save LLM output: {e}")
-    
-    def _merge_overlapping_chunks(self, all_chunks: List[RefinedTranscriptChunk]) -> List[RefinedTranscriptChunk]:
-        """Merge overlapping chunks from different processing runs"""
-        if not all_chunks:
-            return []
-        
-        # Sort chunks by start time
-        sorted_chunks = sorted(all_chunks, key=lambda x: x.start_time)
-        merged_chunks = []
-        
-        for chunk in sorted_chunks:
-            if not merged_chunks:
-                merged_chunks.append(chunk)
-                continue
-            
-            last_chunk = merged_chunks[-1]
-            
-            # Check if chunks overlap or are very close (within 2 seconds)
-            if chunk.start_time <= last_chunk.end_time + 2.0:
-                # Check if they're describing the same thing (similar content)
-                if self._are_chunks_related(last_chunk.description, chunk.description):
-                    # Merge the chunks
-                    merged_chunk = RefinedTranscriptChunk(
-                        description=f"{last_chunk.description} {chunk.description}".strip(),
-                        start_time=last_chunk.start_time,
-                        end_time=max(last_chunk.end_time, chunk.end_time)
-                    )
-                    merged_chunks[-1] = merged_chunk
-                else:
-                    merged_chunks.append(chunk)
-            else:
-                merged_chunks.append(chunk)
-        
-        return merged_chunks
-    
-    def _are_chunks_related(self, desc1: str, desc2: str) -> bool:
-        """Check if two chunk descriptions are related (part of same defect)"""
-        desc1_lower = desc1.lower()
-        desc2_lower = desc2.lower()
-        
-        # Check for common defect patterns
-        defect_keywords = ['tread', 'priority', 'crack', 'defect', 'top', 'bottom', 'front', 'rear']
-        
-        # If both contain defect keywords, they might be related
-        desc1_has_defect = any(keyword in desc1_lower for keyword in defect_keywords)
-        desc2_has_defect = any(keyword in desc2_lower for keyword in defect_keywords)
-        
-        if desc1_has_defect and desc2_has_defect:
-            # Check for specific patterns that indicate they should be merged
-            if ('priority' in desc1_lower and 'priority' not in desc2_lower) or \
-               ('priority' in desc2_lower and 'priority' not in desc1_lower):
-                return True
-            
-            if ('tread' in desc1_lower and 'tread' in desc2_lower):
-                return True
-        
-        return False
-    
-    def _create_refinement_prompt(self) -> PromptTemplate:
-        """Create the prompt template for transcript refinement"""
-        template = """
-        You are an expert at restructuring building inspection transcripts into semantically meaningful chunks.
-        
-        CRITICAL: You MUST return valid JSON format. Do not truncate or cut off your response.
-        
-        Given the following randomly chunked transcript segments, restructure them into meaningful chunks.
-        
-        CRITICAL RULES:
-        1. If a defect is split across multiple segments, combine them into one chunk
-        2. If multiple defects are mentioned in one segment, split them into separate chunks
-        3. Preserve all conversation content - do not remove anything
-        4. Estimate timestamps intelligently when splitting/combining
-        5. CREATE MULTIPLE CHUNKS - Don't combine everything into one chunk
-        6. Each chunk should represent ONE complete thought or defect
-        
-        EXAMPLES:
-        
-        Input (split defect):
-        [00:54.860 --> 01:01.860] Tread number 6 priority.
-        [01:01.860 --> 01:06.860] 1 top front crack.
-        
-        Output (combined):
-        description: "Tread number 6 priority 1 top front crack"
-        start_time: 54.86
-        end_time: 66.86
-        
-        Input (multiple defects in one segment):
-        [00:00.000 --> 00:06.480] Tread number 9 priority 2 bottom rear crack. Tread number 4 priority 1 top front crack.
-        
-        Output (split):
-        description: "Tread number 9 priority 2 bottom rear crack"
-        start_time: 0.0
-        end_time: 3.24
-        
-        description: "Tread number 4 priority 1 top front crack"
-        start_time: 3.24
-        end_time: 6.48
-        
-        DEFECT PATTERNS TO RECOGNIZE:
-        - "Tread number X priority Y [location] [type] crack"
-        - "Tread X priority Y [description]"
-        - Any mention of tread numbers, priorities, cracks, defects
-        
-        CONVERSATION TO PRESERVE:
-        - Building/apartment mentions
-        - General conversation
-        - Screenshot mentions
-        - Any other content
-        
-        Transcript segments:
-        {transcript_segments}
-        
-        CRITICAL JSON FORMAT REQUIREMENTS:
-        - Start with [ and end with ]
-        - Each chunk must be a complete object with { and }
-        - Use proper JSON syntax with commas between objects
-        - Do not truncate or cut off the response
-        - Complete ALL objects - do not leave incomplete JSON
-        - Ensure every object has all three fields: description, start_time, end_time
-        
-        CORRECT FORMAT EXAMPLE:
-        [
-            {
-                "description": "apartment 122",
-                "start_time": 4.88,
-                "end_time": 10.44
-            },
-            {
-                "description": "tread number 11 priority one top front crack",
-                "start_time": 15.0,
-                "end_time": 20.0
-            }
-        ]
-        
-        IMPORTANT: Return MULTIPLE chunks in proper JSON array format. Each chunk should be a separate object with description, start_time, and end_time fields. Do not combine everything into a single chunk.
+
+    def _convert_chunks_to_dict_format(self, chunks: List[RefinedTranscriptChunk]) -> List[Dict[str, Any]]:
         """
+        Convert RefinedTranscriptChunk objects to dictionary format
         
-        return PromptTemplate(
-            template=template,
-            input_variables=["transcript_segments"]
-        )
-    
+        Args:
+            chunks: List of RefinedTranscriptChunk objects
+            
+        Returns:
+            List of dictionaries with description, start_time, and end_time
+        """
+        defects_data = []
+        for chunk in chunks:
+            defects_data.append({
+                "description": chunk.description,
+                "start_time": chunk.start_time,
+                "end_time": chunk.end_time
+            })
+        
+        logger.info("Converted %d chunks to dictionary format", len(defects_data))
+        return defects_data
+
+    def _convert_dict_to_chunks(self, dict_list: List[Dict[str, Any]]) -> List[RefinedTranscriptChunk]:
+        """
+        Convert list of dictionaries back to RefinedTranscriptChunk objects
+        
+        Args:
+            dict_list: List of dictionaries with description, start_time, and end_time
+            
+        Returns:
+            List of RefinedTranscriptChunk objects
+        """
+        chunks = []
+        for item in dict_list:
+            chunk = RefinedTranscriptChunk(
+                description=item.get('description', ''),
+                start_time=item.get('start_time', 0),
+                end_time=item.get('end_time', 0)
+            )
+            chunks.append(chunk)
+        
+        logger.info("Converted %d dictionaries back to RefinedTranscriptChunk objects", len(chunks))
+        return chunks
+
     def _create_simple_chunks(self, transcript_result: Dict[str, Any]) -> List[RefinedTranscriptChunk]:
         """Fallback simple chunking when LLM is not available"""
         chunks = []
@@ -914,6 +592,7 @@ class VideoProcessor:
         logger.info("Created %d simple transcript chunks", len(chunks))
         return chunks
     
+
     def extract_defects_using_llm(self, refined_chunks: List[RefinedTranscriptChunk]) -> List[DefectInfo]:
         """
         Extract defects from refined transcript chunks using LLM
@@ -924,7 +603,7 @@ class VideoProcessor:
         Returns:
             List of DefectInfo objects
         """
-        if not self.llm:
+        if self.llm:
             logger.warning("LLM not initialized, using rule-based defect extraction")
             return self._extract_defects_rule_based_from_chunks(refined_chunks)
         
@@ -1355,13 +1034,13 @@ class VideoProcessor:
         
         # Step 2: Extract audio
         audio_path = os.path.join(output_dir, "extracted_audio.wav")
-        self.extract_audio_from_video(video_path, audio_path)
+        #self.extract_audio_from_video(video_path, audio_path)
         
         # Step 3: Transcribe audio
         transcript_result = self.transcribe_audio(audio_path)
         
         # Save transcript for debugging
-        transcript_file = os.path.join(output_dir, "transcript.json")
+        transcript_file = os.path.join(output_dir, "1_transcript.json")
         with open(transcript_file, 'w', encoding='utf-8') as f:
             json.dump(transcript_result, f, indent=2)
         
@@ -1370,31 +1049,68 @@ class VideoProcessor:
         self._save_transcript_as_text(transcript_result, transcript_text_file)
         
         # Step 4: Create refined transcript chunks
-        refined_chunks = self.create_refined_transcript_chunks(transcript_result)
+        formated_transcript_chunks = self.create_formated_transcript_chunks(transcript_result)
         
         # Save refined transcript chunks
-        refined_chunks_file = os.path.join(output_dir, "refined_transcript_chunks.json")
+        refined_chunks_file = os.path.join(output_dir, "2_formated_transcript_chunks.json")
         with open(refined_chunks_file, 'w', encoding='utf-8') as f:
-            json.dump([chunk.model_dump() for chunk in refined_chunks], f, indent=2)
+            json.dump([chunk.model_dump() for chunk in formated_transcript_chunks], f, indent=2)
+
+        # Step 4.5: Convert formated chunks to dictionary format
+        defects_data = self._convert_chunks_to_dict_format(formated_transcript_chunks)
+        
+        # Step 4.6: Semantic processing of formated chunks
+        llms_refined_transcript_cunks = refine_transcript_chunks_symmentically(
+                        defects_data=defects_data,
+                        save_to_file="output/3_refined_transcript_llm.json",
+                        verbose=True
+        )
+
+        print("xyz")
+        print(llms_refined_transcript_cunks)
+        
+        # Step 4.7: Convert dictionary format back to RefinedTranscriptChunk objects
+        refined_chunks_for_extraction = self._convert_dict_to_chunks(llms_refined_transcript_cunks)
         
         # Step 5: Extract defects using refined chunks
-        defects = self.extract_defects_using_llm(refined_chunks)
+        defects = self.extract_defects_using_llm(refined_chunks_for_extraction)
+
         
         # Save defects for debugging
-        defects_file = os.path.join(output_dir, "extracted_defects.json")
+        defects_file = os.path.join(output_dir, "4_extracted_defects.json")
         with open(defects_file, 'w', encoding='utf-8') as f:
             json.dump([defect.model_dump() for defect in defects], f, indent=2)
         
         logger.info("Processing completed. Found %d defects.", len(defects))
         
-        # Step 6: Generate screenshots and CSV report
+        # Step 6.5: Take screenshots for defects
+        defects_with_image_path = []
         if defects:
             try:
-                from screenshot_generator import generate_defect_report
-                csv_path = generate_defect_report(defects, video_path, output_dir)
-                logger.info(f"Defect report with screenshots generated: {csv_path}")
+                from screenshot_taker import take_screenshots_for_defects
+                defects_with_image_path = take_screenshots_for_defects(defects, video_path, output_dir)
+                logger.info("Screenshots captured for %d defects", len(defects_with_image_path))
             except Exception as e:
-                logger.error(f"Failed to generate screenshot report: {e}")
+                logger.error("Failed to capture screenshots: %s", e)
+                # Create defects_with_image_path without screenshots
+                for defect in defects:
+                    defect_dict = defect.model_dump() if hasattr(defect, 'model_dump') else {}
+                    defect_dict['image_path'] = None
+                    defect_dict['image_filename'] = None
+                    defects_with_image_path.append(defect_dict)
+
+        # Step 7: Generate PDF report
+        if defects_with_image_path:
+            try:
+                from pdf_generator import generate_pdf_report
+                pdf_output_path = os.path.join(output_dir, "defects_report.pdf")
+                pdf_success = generate_pdf_report(defects_with_image_path, pdf_output_path)
+                if pdf_success:
+                    logger.info(f"✅ PDF report generated: {pdf_output_path}")
+                else:
+                    logger.error("❌ Failed to generate PDF report")
+            except Exception as e:
+                logger.error("Failed to generate PDF report: %s", e)
         
         return defects
 
